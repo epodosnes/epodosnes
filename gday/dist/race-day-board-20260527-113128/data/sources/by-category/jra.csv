@@ -1,0 +1,4 @@
+id,category,venueName,region,startTime,endTime,days,dates,officialUrl,night,memo,accessNote
+jra-tokyo,jra,東京競馬場,東京都,09:50,16:30,0;6,,https://www.jra.go.jp/,false,中央競馬の主要開催場。,府中本町駅・府中競馬正門前駅が便利
+jra-kyoto,jra,京都競馬場,京都府,09:50,16:30,0;6,,https://www.jra.go.jp/,false,関西方面の中央競馬チェック用。,淀駅から徒歩圏
+jra-hanshin,jra,阪神競馬場,兵庫県,09:50,16:30,6,,https://www.jra.go.jp/,false,週末開催のサンプル。,仁川駅から徒歩圏

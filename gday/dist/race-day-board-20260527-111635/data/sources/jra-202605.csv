@@ -1,0 +1,29 @@
+id,category,venueName,region,startTime,endTime,days,dates,officialUrl,night,memo,accessNote
+jra-2026-05-02-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-02,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Keio Hai Spring Cup (G2),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-02-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-02,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Keio Hai Spring Cup (G2),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-02-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-02,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Keio Hai Spring Cup (G2),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-03-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-03,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tenno Sho (Spring) (G1),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-03-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-03,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tenno Sho (Spring) (G1),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-03-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-03,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tenno Sho (Spring) (G1),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-09-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-09,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Epsom Cup (G3),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-09-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-09,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Epsom Cup (G3),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-09-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-09,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Epsom Cup (G3),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-10-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-10,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: NHK Mile Cup (G1),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-10-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-10,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: NHK Mile Cup (G1),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-10-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-10,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: NHK Mile Cup (G1),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-16-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-16,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Kyoto High-Jump (J-G2),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-16-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-16,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Kyoto High-Jump (J-G2),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-16-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-16,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Kyoto High-Jump (J-G2),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-17-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-17,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Victoria Mile (G1),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-17-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-17,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Victoria Mile (G1),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-17-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-17,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Victoria Mile (G1),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-23-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-23,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Heian Stakes (G3),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-23-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-23,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Heian Stakes (G3),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-23-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-23,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Heian Stakes (G3),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-24-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-24,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Yushun Himba (Japanese Oaks) (G1),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-24-nii,jra,新潟競馬場,新潟県,09:50,16:30,,2026-05-24,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Yushun Himba (Japanese Oaks) (G1),新潟競馬場の公式発表もあわせて確認してください。
+jra-2026-05-24-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-24,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Yushun Himba (Japanese Oaks) (G1),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-30-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-30,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Aoi Stakes (G3),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-30-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-30,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Aoi Stakes (G3),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-05-31-kyo,jra,京都競馬場,京都府,09:50,16:30,,2026-05-31,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tokyo Yushun (Japanese Derby) (G1) Meguro Kinen (G2),京都競馬場の公式発表もあわせて確認してください。
+jra-2026-05-31-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-05-31,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tokyo Yushun (Japanese Derby) (G1) Meguro Kinen (G2),東京競馬場の公式発表もあわせて確認してください。

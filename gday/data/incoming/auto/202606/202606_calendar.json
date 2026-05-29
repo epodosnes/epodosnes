@@ -1,0 +1,4295 @@
+{
+  "result": "Success",
+  "errors": [],
+  "body": [
+    {
+      "placeCode": 2,
+      "placeKey": "kawaguchi",
+      "placeName": "川　口",
+      "calendar": [
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-28"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-29"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-30"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-31"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-01",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:30",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/1～6/2 10:30～16:55",
+              "6/3 10:30～17:00"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "川口市営第４回２節",
+            "titleShort": "川口市営第４回２節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-01"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-01",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:30",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/1～6/2 10:30～16:55",
+              "6/3 10:30～17:00"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "川口市営第４回２節",
+            "titleShort": "川口市営第４回２節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-02"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-01",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:30",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/1～6/2 10:30～16:55",
+              "6/3 10:30～17:00"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "川口市営第４回２節",
+            "titleShort": "川口市営第４回２節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-03"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-04",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/4～6/6 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-04"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-04",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/4～6/6 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-05"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-04",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/4～6/6 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-06"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-07"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-08"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-09"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:15",
+            "liveEndTime": "21:05",
+            "liveAllTime": [
+              "6/10～6/13 14:15～21:05",
+              "6/14 14:15～21:15"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "スポーツニッポン新聞社杯ＧⅡ川口記念",
+            "titleShort": "ＧⅡ川口記念",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-10"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:15",
+            "liveEndTime": "21:05",
+            "liveAllTime": [
+              "6/10～6/13 14:15～21:05",
+              "6/14 14:15～21:15"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "スポーツニッポン新聞社杯ＧⅡ川口記念",
+            "titleShort": "ＧⅡ川口記念",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-11"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:15",
+            "liveEndTime": "21:05",
+            "liveAllTime": [
+              "6/10～6/13 14:15～21:05",
+              "6/14 14:15～21:15"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "スポーツニッポン新聞社杯ＧⅡ川口記念",
+            "titleShort": "ＧⅡ川口記念",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-12"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:15",
+            "liveEndTime": "21:05",
+            "liveAllTime": [
+              "6/10～6/13 14:15～21:05",
+              "6/14 14:15～21:15"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "スポーツニッポン新聞社杯ＧⅡ川口記念",
+            "titleShort": "ＧⅡ川口記念",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 4,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-13"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:15",
+            "liveEndTime": "21:05",
+            "liveAllTime": [
+              "6/10～6/13 14:15～21:05",
+              "6/14 14:15～21:15"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "スポーツニッポン新聞社杯ＧⅡ川口記念",
+            "titleShort": "ＧⅡ川口記念",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 5,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-14"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-15"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-16"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-17"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-18",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:30",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/18～6/19 10:30～16:55",
+              "6/20 10:30～17:00"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "川口市営第５回１節",
+            "titleShort": "川口市営第５回１節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-18"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-18",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:30",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/18～6/19 10:30～16:55",
+              "6/20 10:30～17:00"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "川口市営第５回１節",
+            "titleShort": "川口市営第５回１節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-19"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-18",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:30",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/18～6/19 10:30～16:55",
+              "6/20 10:30～17:00"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "川口市営第５回１節",
+            "titleShort": "川口市営第５回１節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-20"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-21",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/21～6/23 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-21"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-21",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/21～6/23 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-22"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-21",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/21～6/23 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-23"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-24"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-25"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-26"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-27"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-28"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/29～7/1 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 2,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-29"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/29～7/1 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 2,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-30"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "18:25",
+            "liveEndTime": "22:10",
+            "liveAllTime": [
+              "6/29～7/1 18:25～22:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "テレ玉presents　川口ナイトレース",
+            "titleShort": "川口ナイトレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 2,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-01"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-07-02"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-07-03"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "placeCode": 3,
+      "placeKey": "isesaki",
+      "placeName": "伊勢崎",
+      "calendar": [
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-27",
+            "gradeCode": 2,
+            "gradeName": "G1",
+            "liveStartTime": "13:45",
+            "liveEndTime": "20:50",
+            "liveAllTime": [
+              "5/27～5/29 13:45～20:50",
+              "5/30 13:45～21:00",
+              "5/31 13:45～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ",
+            "titleShort": "GIムーンライトCC",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 4,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-05-28"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-27",
+            "gradeCode": 2,
+            "gradeName": "G1",
+            "liveStartTime": "13:45",
+            "liveEndTime": "20:50",
+            "liveAllTime": [
+              "5/27～5/29 13:45～20:50",
+              "5/30 13:45～21:00",
+              "5/31 13:45～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ",
+            "titleShort": "GIムーンライトCC",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 4,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-05-29"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-27",
+            "gradeCode": 2,
+            "gradeName": "G1",
+            "liveStartTime": "13:45",
+            "liveEndTime": "20:50",
+            "liveAllTime": [
+              "5/27～5/29 13:45～20:50",
+              "5/30 13:45～21:00",
+              "5/31 13:45～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ",
+            "titleShort": "GIムーンライトCC",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 4,
+            "paragraphDay": 4,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-05-30"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-27",
+            "gradeCode": 2,
+            "gradeName": "G1",
+            "liveStartTime": "13:45",
+            "liveEndTime": "20:50",
+            "liveAllTime": [
+              "5/27～5/29 13:45～20:50",
+              "5/30 13:45～21:00",
+              "5/31 13:45～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ",
+            "titleShort": "GIムーンライトCC",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 4,
+            "paragraphDay": 5,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-05-31"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-01"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-02"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-03"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-04"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-05"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-06"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "17:35",
+            "liveEndTime": "21:10",
+            "liveAllTime": [
+              "6/7～6/9 17:35～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター",
+            "titleShort": "アフター５ナイター",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-07"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "17:35",
+            "liveEndTime": "21:10",
+            "liveAllTime": [
+              "6/7～6/9 17:35～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター",
+            "titleShort": "アフター５ナイター",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-08"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "17:35",
+            "liveEndTime": "21:10",
+            "liveAllTime": [
+              "6/7～6/9 17:35～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター",
+            "titleShort": "アフター５ナイター",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-09"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-10"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-11"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-12"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-13"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-14"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-15"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-16"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-17"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-18"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-19"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-20"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-21"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-22"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-23"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:00",
+            "liveEndTime": "21:00",
+            "liveAllTime": [
+              "6/24～6/27 14:00～21:00",
+              "6/28 14:00～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "日本トーター・日刊スポーツ杯ＧⅡ稲妻賞",
+            "titleShort": "ＧⅡ稲妻賞",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-24"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:00",
+            "liveEndTime": "21:00",
+            "liveAllTime": [
+              "6/24～6/27 14:00～21:00",
+              "6/28 14:00～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "日本トーター・日刊スポーツ杯ＧⅡ稲妻賞",
+            "titleShort": "ＧⅡ稲妻賞",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-25"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:00",
+            "liveEndTime": "21:00",
+            "liveAllTime": [
+              "6/24～6/27 14:00～21:00",
+              "6/28 14:00～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "日本トーター・日刊スポーツ杯ＧⅡ稲妻賞",
+            "titleShort": "ＧⅡ稲妻賞",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-26"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:00",
+            "liveEndTime": "21:00",
+            "liveAllTime": [
+              "6/24～6/27 14:00～21:00",
+              "6/28 14:00～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "日本トーター・日刊スポーツ杯ＧⅡ稲妻賞",
+            "titleShort": "ＧⅡ稲妻賞",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 4,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-27"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 3,
+            "gradeName": "G2",
+            "liveStartTime": "14:00",
+            "liveEndTime": "21:00",
+            "liveAllTime": [
+              "6/24～6/27 14:00～21:00",
+              "6/28 14:00～21:10"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "日本トーター・日刊スポーツ杯ＧⅡ稲妻賞",
+            "titleShort": "ＧⅡ稲妻賞",
+            "channel": 529,
+            "days": 5,
+            "daysThisMonth": 5,
+            "daysThisCalendar": 5,
+            "paragraphDay": 5,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-28"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-29"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-30"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-07-01"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-07-02",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "14:30",
+            "liveEndTime": "20:50",
+            "liveAllTime": [
+              "7/2～7/4 14:30～20:50",
+              "7/5 14:30～21:00"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "第48回サマーランド杯",
+            "titleShort": "サマーランド杯",
+            "channel": 528,
+            "days": 4,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-02"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-07-02",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "14:30",
+            "liveEndTime": "20:50",
+            "liveAllTime": [
+              "7/2～7/4 14:30～20:50",
+              "7/5 14:30～21:00"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "第48回サマーランド杯",
+            "titleShort": "サマーランド杯",
+            "channel": 528,
+            "days": 4,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-03"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-07-02",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "14:30",
+            "liveEndTime": "20:50",
+            "liveAllTime": [
+              "7/2～7/4 14:30～20:50",
+              "7/5 14:30～21:00"
+            ],
+            "nighterCode": 1,
+            "nighterName": "ナイター",
+            "title": "第48回サマーランド杯",
+            "titleShort": "サマーランド杯",
+            "channel": 528,
+            "days": 4,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "placeCode": 4,
+      "placeKey": "hamamatsu",
+      "placeName": "浜　松",
+      "calendar": [
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-28"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:30",
+            "liveEndTime": "13:45",
+            "liveAllTime": [
+              "5/29～5/31 9:30～13:45"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ　浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-29"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:30",
+            "liveEndTime": "13:45",
+            "liveAllTime": [
+              "5/29～5/31 9:30～13:45"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ　浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-30"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:30",
+            "liveEndTime": "13:45",
+            "liveAllTime": [
+              "5/29～5/31 9:30～13:45"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ　浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-31"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-01"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-02"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-03"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-04",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/4～6/6 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "第17回浜松観光食堂杯フードアタック",
+            "titleShort": "第17回浜松観光食堂杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-04"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-04",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/4～6/6 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "第17回浜松観光食堂杯フードアタック",
+            "titleShort": "第17回浜松観光食堂杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-05"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-04",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/4～6/6 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "第17回浜松観光食堂杯フードアタック",
+            "titleShort": "第17回浜松観光食堂杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-06"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-07"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-08"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-09"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-10"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-11"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-12",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:30",
+            "liveEndTime": "14:15",
+            "liveAllTime": [
+              "6/12～6/14 9:30～14:15"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-12"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-12",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:30",
+            "liveEndTime": "14:15",
+            "liveAllTime": [
+              "6/12～6/14 9:30～14:15"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-13"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-12",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:30",
+            "liveEndTime": "14:15",
+            "liveAllTime": [
+              "6/12～6/14 9:30～14:15"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-14"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-15"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-16"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-17"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-18"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-19"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-20"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-21",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "11:25",
+            "liveEndTime": "18:25",
+            "liveAllTime": [
+              "6/21～6/23 11:25～18:25"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "第12回大成ロテック杯",
+            "titleShort": "第12回大成ロテック杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-21"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-21",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "11:25",
+            "liveEndTime": "18:25",
+            "liveAllTime": [
+              "6/21～6/23 11:25～18:25"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "第12回大成ロテック杯",
+            "titleShort": "第12回大成ロテック杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-22"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-21",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "11:25",
+            "liveEndTime": "18:25",
+            "liveAllTime": [
+              "6/21～6/23 11:25～18:25"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "第12回大成ロテック杯",
+            "titleShort": "第12回大成ロテック杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-23"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-24"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-25"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-26",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:00",
+            "liveEndTime": "13:50",
+            "liveAllTime": [
+              "6/26～6/28 9:00～13:50"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-26"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-26",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:00",
+            "liveEndTime": "13:50",
+            "liveAllTime": [
+              "6/26～6/28 9:00～13:50"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-27"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-26",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "9:00",
+            "liveEndTime": "13:50",
+            "liveAllTime": [
+              "6/26～6/28 9:00～13:50"
+            ],
+            "nighterCode": 4,
+            "nighterName": "モーニング",
+            "title": "AutoRace.JP投票杯オトもっちカップ浜松アーリーレース",
+            "titleShort": "AutoRace.JP投票杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-28"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-29"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-30"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-07-01"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-07-02"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-07-03"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "placeCode": 5,
+      "placeKey": "iizuka",
+      "placeName": "飯　塚",
+      "calendar": [
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-28"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-05-29"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-05-30"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-05-31"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-01",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:50",
+            "liveEndTime": "24:05",
+            "liveAllTime": [
+              "6/1～6/3 19:50～24:05"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-01"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-01",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:50",
+            "liveEndTime": "24:05",
+            "liveAllTime": [
+              "6/1～6/3 19:50～24:05"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-02"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-01",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:50",
+            "liveEndTime": "24:05",
+            "liveAllTime": [
+              "6/1～6/3 19:50～24:05"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-03"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-04"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-05"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-06"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/7～6/9 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚オーバーミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-07"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/7～6/9 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚オーバーミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-08"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/7～6/9 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚オーバーミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            }
+          ],
+          "date": "2026-06-09"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-10"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-11"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-12"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-13"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-14"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-15",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/15～6/17 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "にしてつ杯争奪戦",
+            "titleShort": "にしてつ杯争奪戦",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-15"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-15",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/15～6/17 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "にしてつ杯争奪戦",
+            "titleShort": "にしてつ杯争奪戦",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-16"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-15",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/15～6/17 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "にしてつ杯争奪戦",
+            "titleShort": "にしてつ杯争奪戦",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-17"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-18",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:50",
+            "liveEndTime": "24:05",
+            "liveAllTime": [
+              "6/18～6/20 19:50～24:05"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-18"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-18",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:50",
+            "liveEndTime": "24:05",
+            "liveAllTime": [
+              "6/18～6/20 19:50～24:05"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-19"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-18",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:50",
+            "liveEndTime": "24:05",
+            "liveAllTime": [
+              "6/18～6/20 19:50～24:05"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-20"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-21"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-22"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-23"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-24"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-25"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-26"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-27"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-28"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/29～7/1 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "スポニチ杯フルスロットルバトル",
+            "titleShort": "スポニチ杯フルスロットルバトル",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 2,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-29"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/29～7/1 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "スポニチ杯フルスロットルバトル",
+            "titleShort": "スポニチ杯フルスロットルバトル",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 2,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-30"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-29",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/29～7/1 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "スポニチ杯フルスロットルバトル",
+            "titleShort": "スポニチ杯フルスロットルバトル",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 2,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-01"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            },
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-07-02"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            },
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-07-03"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 6,
+              "placeKey": "sanyou",
+              "placeName": "山　陽",
+              "placeNameShort": "山"
+            },
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "placeCode": 6,
+      "placeKey": "sanyou",
+      "placeName": "山　陽",
+      "calendar": [
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-27",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "5/27～5/29 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 2,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-05-28"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-05-27",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "5/27～5/29 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 2,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-05-29"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-05-30"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            },
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-05-31"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-01"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-02"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-03"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-04"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-05"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-06"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/7～6/9 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "美祢警備保障杯",
+            "titleShort": "美祢警備保障杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-07"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/7～6/9 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "美祢警備保障杯",
+            "titleShort": "美祢警備保障杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-08"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-07",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "6/7～6/9 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "美祢警備保障杯",
+            "titleShort": "美祢警備保障杯",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-06-09"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/10～6/12 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "山陽オーバーミッドナイトオートレース　当たるんですＣＵＰ",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-10"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/10～6/12 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "山陽オーバーミッドナイトオートレース　当たるんですＣＵＰ",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-11"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-10",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/10～6/12 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "山陽オーバーミッドナイトオートレース　当たるんですＣＵＰ",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-12"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-13"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-14"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-15",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:25",
+            "liveEndTime": "24:00",
+            "liveAllTime": [
+              "6/15～6/17 19:25～24:00"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "山陽ミッドナイトオートレース　当たるんですＣＵＰ",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-15"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-15",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:25",
+            "liveEndTime": "24:00",
+            "liveAllTime": [
+              "6/15～6/17 19:25～24:00"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "山陽ミッドナイトオートレース　当たるんですＣＵＰ",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-16"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-15",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "19:25",
+            "liveEndTime": "24:00",
+            "liveAllTime": [
+              "6/15～6/17 19:25～24:00"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "山陽ミッドナイトオートレース　当たるんですＣＵＰ",
+            "titleShort": "ミッドナイトオートレース",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-17"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-18"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-19"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 2,
+              "placeKey": "kawaguchi",
+              "placeName": "川　口",
+              "placeNameShort": "川"
+            }
+          ],
+          "date": "2026-06-20"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-21"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-22"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 4,
+              "placeKey": "hamamatsu",
+              "placeName": "浜　松",
+              "placeNameShort": "浜"
+            }
+          ],
+          "date": "2026-06-23"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/24～6/26 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-24"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/24～6/26 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-25"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-06-24",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "21:00",
+            "liveEndTime": "24:50",
+            "liveAllTime": [
+              "6/24～6/26 21:00～24:50"
+            ],
+            "nighterCode": 2,
+            "nighterName": "ミッドナイト",
+            "title": "おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース",
+            "titleShort": "オーバーミッドナイト",
+            "channel": 528,
+            "days": 3,
+            "daysThisMonth": 3,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-26"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-27"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 3,
+              "placeKey": "isesaki",
+              "placeName": "伊勢崎",
+              "placeNameShort": "伊"
+            }
+          ],
+          "date": "2026-06-28"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-29"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-06-30"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [
+            {
+              "placeCode": 5,
+              "placeKey": "iizuka",
+              "placeName": "飯　塚",
+              "placeNameShort": "飯"
+            }
+          ],
+          "date": "2026-07-01"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-07-02",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "7/2～7/4 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "山陽小野田市営第6回2節",
+            "titleShort": "山陽小野田市営第6回2節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 1,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-02"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-07-02",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "7/2～7/4 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "山陽小野田市営第6回2節",
+            "titleShort": "山陽小野田市営第6回2節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 2,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-03"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": {
+            "periodStartDate": "2026-07-02",
+            "gradeCode": 0,
+            "gradeName": "普通開催",
+            "liveStartTime": "10:25",
+            "liveEndTime": "16:55",
+            "liveAllTime": [
+              "7/2～7/4 10:25～16:55"
+            ],
+            "nighterCode": 0,
+            "nighterName": "",
+            "title": "山陽小野田市営第6回2節",
+            "titleShort": "山陽小野田市営第6回2節",
+            "channel": 529,
+            "days": 3,
+            "daysThisMonth": 0,
+            "daysThisCalendar": 3,
+            "paragraphDay": 3,
+            "finalRaceNo": "",
+            "activePlayerLink": true,
+            "activeResultLink": false
+          },
+          "outside": [],
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "placeCode": 12,
+      "placeKey": "kawaguchi2",
+      "placeName": "川口2",
+      "calendar": [
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-05-28"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-05-29"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-05-30"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-05-31"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-01"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-02"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-03"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-04"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-05"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-06"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-07"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-08"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-09"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-10"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-11"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-12"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-13"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-14"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-15"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-16"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-17"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-18"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-19"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-20"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-21"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-22"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-23"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-24"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-25"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-26"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-27"
+        },
+        {
+          "weekDate": "0",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-28"
+        },
+        {
+          "weekDate": "1",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-29"
+        },
+        {
+          "weekDate": "2",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-06-30"
+        },
+        {
+          "weekDate": "3",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-07-01"
+        },
+        {
+          "weekDate": "4",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-07-02"
+        },
+        {
+          "weekDate": "5",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-07-03"
+        },
+        {
+          "weekDate": "6",
+          "isHoliday": false,
+          "race": [],
+          "outside": [],
+          "date": "2026-07-04"
+        }
+      ]
+    }
+  ]
+}

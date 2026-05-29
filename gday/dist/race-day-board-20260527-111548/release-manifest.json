@@ -1,0 +1,327 @@
+{
+  "releaseId": "race-day-board-20260527-111548",
+  "createdAt": "2026-05-27T02:15:48.986Z",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 49436
+    },
+    {
+      "path": "race-day.cmd",
+      "bytes": 106
+    },
+    {
+      "path": "README.md",
+      "bytes": 5582
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 12561
+    },
+    {
+      "path": "src/sample-data.js",
+      "bytes": 872021
+    },
+    {
+      "path": "data/events.csv",
+      "bytes": 461174
+    },
+    {
+      "path": "data/events.json",
+      "bytes": 871968
+    },
+    {
+      "path": "docs/quickstart.md",
+      "bytes": 1639
+    },
+    {
+      "path": "docs/update-operations.md",
+      "bytes": 2747
+    },
+    {
+      "path": "docs/update-status.md",
+      "bytes": 1596
+    },
+    {
+      "path": "docs/coverage-report.md",
+      "bytes": 381
+    },
+    {
+      "path": "docs/day-report.md",
+      "bytes": 4901
+    },
+    {
+      "path": "docs/dashboard.md",
+      "bytes": 1650
+    },
+    {
+      "path": "docs/backup-report.md",
+      "bytes": 2289
+    },
+    {
+      "path": "docs/backup-maintenance.md",
+      "bytes": 2749
+    },
+    {
+      "path": "docs/release.md",
+      "bytes": 948
+    },
+    {
+      "path": "scripts/backup-data.js",
+      "bytes": 2023
+    },
+    {
+      "path": "scripts/build-sample-data.js",
+      "bytes": 3192
+    },
+    {
+      "path": "scripts/check-auto-import.js",
+      "bytes": 2175
+    },
+    {
+      "path": "scripts/check-boat-import.js",
+      "bytes": 2175
+    },
+    {
+      "path": "scripts/check-data.js",
+      "bytes": 9120
+    },
+    {
+      "path": "scripts/check-jra-import.js",
+      "bytes": 2170
+    },
+    {
+      "path": "scripts/check-keirin-import.js",
+      "bytes": 2185
+    },
+    {
+      "path": "scripts/check-libs.js",
+      "bytes": 2004
+    },
+    {
+      "path": "scripts/check-local-keiba-import.js",
+      "bytes": 2210
+    },
+    {
+      "path": "scripts/check-release.js",
+      "bytes": 2033
+    },
+    {
+      "path": "scripts/check-ui.js",
+      "bytes": 3252
+    },
+    {
+      "path": "scripts/compare-backup.js",
+      "bytes": 2155
+    },
+    {
+      "path": "scripts/fetch-auto-calendar.js",
+      "bytes": 7035
+    },
+    {
+      "path": "scripts/fetch-boat-calendar.js",
+      "bytes": 8471
+    },
+    {
+      "path": "scripts/fetch-jra-calendar.js",
+      "bytes": 6241
+    },
+    {
+      "path": "scripts/fetch-keirin-calendar.js",
+      "bytes": 7457
+    },
+    {
+      "path": "scripts/fetch-local-keiba.js",
+      "bytes": 9582
+    },
+    {
+      "path": "scripts/filter-manual-sources.js",
+      "bytes": 1354
+    },
+    {
+      "path": "scripts/import-events-csv.js",
+      "bytes": 2372
+    },
+    {
+      "path": "scripts/import-month.js",
+      "bytes": 11081
+    },
+    {
+      "path": "scripts/lib/categories.js",
+      "bytes": 471
+    },
+    {
+      "path": "scripts/lib/coverage.js",
+      "bytes": 1368
+    },
+    {
+      "path": "scripts/lib/csv.js",
+      "bytes": 1282
+    },
+    {
+      "path": "scripts/lib/date.js",
+      "bytes": 1022
+    },
+    {
+      "path": "scripts/lib/events.js",
+      "bytes": 1048
+    },
+    {
+      "path": "scripts/lib/process.js",
+      "bytes": 1174
+    },
+    {
+      "path": "scripts/list-backups.js",
+      "bytes": 1899
+    },
+    {
+      "path": "scripts/merge-source-csvs.js",
+      "bytes": 2044
+    },
+    {
+      "path": "scripts/package-release.js",
+      "bytes": 3819
+    },
+    {
+      "path": "scripts/promote-auto-import.js",
+      "bytes": 1174
+    },
+    {
+      "path": "scripts/promote-boat-import.js",
+      "bytes": 1174
+    },
+    {
+      "path": "scripts/promote-jra-import.js",
+      "bytes": 1170
+    },
+    {
+      "path": "scripts/promote-keirin-import.js",
+      "bytes": 1182
+    },
+    {
+      "path": "scripts/promote-local-keiba-import.js",
+      "bytes": 1202
+    },
+    {
+      "path": "scripts/report-backup-maintenance.js",
+      "bytes": 3885
+    },
+    {
+      "path": "scripts/report-backups.js",
+      "bytes": 4199
+    },
+    {
+      "path": "scripts/report-calendar.js",
+      "bytes": 1965
+    },
+    {
+      "path": "scripts/report-coverage.js",
+      "bytes": 4458
+    },
+    {
+      "path": "scripts/report-dashboard.js",
+      "bytes": 4250
+    },
+    {
+      "path": "scripts/report-day.js",
+      "bytes": 5476
+    },
+    {
+      "path": "scripts/report-events.js",
+      "bytes": 4857
+    },
+    {
+      "path": "scripts/report-sources.js",
+      "bytes": 2860
+    },
+    {
+      "path": "scripts/report-update-status.js",
+      "bytes": 6313
+    },
+    {
+      "path": "scripts/report-venues.js",
+      "bytes": 1793
+    },
+    {
+      "path": "scripts/run.ps1",
+      "bytes": 4170
+    },
+    {
+      "path": "scripts/split-source-csvs.js",
+      "bytes": 1423
+    },
+    {
+      "path": "scripts/update-data.js",
+      "bytes": 1703
+    },
+    {
+      "path": "scripts/validate-events-csv.js",
+      "bytes": 3833
+    },
+    {
+      "path": "data/sources/auto-202605.csv",
+      "bytes": 23776
+    },
+    {
+      "path": "data/sources/auto-202606.csv",
+      "bytes": 22533
+    },
+    {
+      "path": "data/sources/boat-202605.csv",
+      "bytes": 128542
+    },
+    {
+      "path": "data/sources/boat-202606.csv",
+      "bytes": 123870
+    },
+    {
+      "path": "data/sources/by-category/auto.csv",
+      "bytes": 628
+    },
+    {
+      "path": "data/sources/by-category/boat.csv",
+      "bytes": 814
+    },
+    {
+      "path": "data/sources/by-category/jra.csv",
+      "bytes": 560
+    },
+    {
+      "path": "data/sources/by-category/local-keiba.csv",
+      "bytes": 819
+    },
+    {
+      "path": "data/sources/jra-202605.csv",
+      "bytes": 7394
+    },
+    {
+      "path": "data/sources/jra-202606.csv",
+      "bytes": 5589
+    },
+    {
+      "path": "data/sources/keirin-202605.csv",
+      "bytes": 59729
+    },
+    {
+      "path": "data/sources/keirin-202606.csv",
+      "bytes": 59186
+    },
+    {
+      "path": "data/sources/local-keiba-202605.csv",
+      "bytes": 31291
+    },
+    {
+      "path": "data/sources/manual-base.csv",
+      "bytes": 92
+    },
+    {
+      "path": "data/sources/manual.csv",
+      "bytes": 2545
+    }
+  ],
+  "excluded": [
+    "backups",
+    "data/incoming",
+    "dist"
+  ]
+}

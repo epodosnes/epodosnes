@@ -1,0 +1,4 @@
+id,category,venueName,region,startTime,endTime,days,dates,officialUrl,night,memo,accessNote
+auto-kawaguchi,auto,川口オートレース場,埼玉県,10:40,16:50,0;3;5,,https://www.kawaguchiauto.jp/,false,首都圏オート候補。,西川口駅・南鳩ヶ谷駅方面を確認
+auto-iizuka,auto,飯塚オートレース場,福岡県,19:00,23:30,1;4;6,,https://www.iizuka-auto.jp/,true,ミッドナイト確認用。,夜開催のため帰路も確認
+auto-hamamatsu,auto,浜松オートレース場,静岡県,10:30,16:40,2;5,,https://www.hamamatsu-auto.jp/,false,東海方面の候補。,浜松駅方面からアクセス確認

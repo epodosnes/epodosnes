@@ -1,0 +1,521 @@
+{
+  "year": 2026,
+  "month": 6,
+  "ym": "202606",
+  "startedAt": "2026-05-27T00:42:52.574Z",
+  "options": {
+    "allowMissing": true,
+    "fetchOnly": false,
+    "only": [],
+    "skipFetch": true,
+    "skipUpdate": true
+  },
+  "categories": [
+    {
+      "id": "local-keiba",
+      "label": "Local keiba",
+      "displayLabel": "地方競馬",
+      "status": "skipped",
+      "steps": [
+        {
+          "label": "Fetch",
+          "status": 0,
+          "ok": true,
+          "skipped": true,
+          "reason": "Skipped by --skip-fetch",
+          "startedAt": "2026-05-27T00:42:52.577Z",
+          "finishedAt": "2026-05-27T00:42:52.577Z",
+          "elapsedMs": 0
+        },
+        {
+          "label": "Check Local keiba",
+          "args": [
+            "scripts/check-local-keiba-import.js",
+            "202606"
+          ],
+          "optional": true,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-local-keiba-import.js 202606",
+          "status": 1,
+          "ok": false,
+          "stdout": "NG Import CSV exists (data\\incoming\\local-keiba\\202606\\202606_events.csv)\nNG Header exists\nNG Has imported rows (0 rows)\nOK Category is local-keiba\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n",
+          "stderr": "\nLocal keiba import check failed: 3 issue(s)\n",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:52.577Z",
+          "finishedAt": "2026-05-27T00:42:52.657Z",
+          "elapsedMs": 80
+        }
+      ],
+      "reason": "check failed"
+    },
+    {
+      "id": "jra",
+      "label": "JRA",
+      "displayLabel": "中央競馬",
+      "status": "succeeded",
+      "steps": [
+        {
+          "label": "Fetch",
+          "status": 0,
+          "ok": true,
+          "skipped": true,
+          "reason": "Skipped by --skip-fetch",
+          "startedAt": "2026-05-27T00:42:52.658Z",
+          "finishedAt": "2026-05-27T00:42:52.658Z",
+          "elapsedMs": 0
+        },
+        {
+          "label": "Check JRA",
+          "args": [
+            "scripts/check-jra-import.js",
+            "202606"
+          ],
+          "optional": true,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-jra-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "OK Import CSV exists (data\\incoming\\jra\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (22 rows)\nOK Category is jra\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nJRA import check passed: 8 checks\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:52.658Z",
+          "finishedAt": "2026-05-27T00:42:52.739Z",
+          "elapsedMs": 81
+        },
+        {
+          "label": "Promote JRA",
+          "args": [
+            "scripts/promote-jra-import.js",
+            "202606"
+          ],
+          "optional": false,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-jra-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "Wrote data\\sources\\jra-202606.csv (22 rows)\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:52.739Z",
+          "finishedAt": "2026-05-27T00:42:52.820Z",
+          "elapsedMs": 81
+        }
+      ]
+    },
+    {
+      "id": "boat",
+      "label": "BOAT RACE",
+      "displayLabel": "ボートレース",
+      "status": "succeeded",
+      "steps": [
+        {
+          "label": "Fetch",
+          "status": 0,
+          "ok": true,
+          "skipped": true,
+          "reason": "Skipped by --skip-fetch",
+          "startedAt": "2026-05-27T00:42:52.820Z",
+          "finishedAt": "2026-05-27T00:42:52.820Z",
+          "elapsedMs": 0
+        },
+        {
+          "label": "Check BOAT RACE",
+          "args": [
+            "scripts/check-boat-import.js",
+            "202606"
+          ],
+          "optional": true,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-boat-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "OK Import CSV exists (data\\incoming\\boat\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (386 rows)\nOK Category is boat\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nBoat import check passed: 8 checks\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:52.820Z",
+          "finishedAt": "2026-05-27T00:42:52.914Z",
+          "elapsedMs": 94
+        },
+        {
+          "label": "Promote BOAT RACE",
+          "args": [
+            "scripts/promote-boat-import.js",
+            "202606"
+          ],
+          "optional": false,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-boat-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "Wrote data\\sources\\boat-202606.csv (386 rows)\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:52.914Z",
+          "finishedAt": "2026-05-27T00:42:53.007Z",
+          "elapsedMs": 93
+        }
+      ]
+    },
+    {
+      "id": "auto",
+      "label": "AutoRace",
+      "displayLabel": "オートレース",
+      "status": "succeeded",
+      "steps": [
+        {
+          "label": "Fetch",
+          "status": 0,
+          "ok": true,
+          "skipped": true,
+          "reason": "Skipped by --skip-fetch",
+          "startedAt": "2026-05-27T00:42:53.007Z",
+          "finishedAt": "2026-05-27T00:42:53.007Z",
+          "elapsedMs": 0
+        },
+        {
+          "label": "Check AutoRace",
+          "args": [
+            "scripts/check-auto-import.js",
+            "202606"
+          ],
+          "optional": true,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-auto-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "OK Import CSV exists (data\\incoming\\auto\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (65 rows)\nOK Category is auto\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nAuto import check passed: 8 checks\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:53.007Z",
+          "finishedAt": "2026-05-27T00:42:53.092Z",
+          "elapsedMs": 85
+        },
+        {
+          "label": "Promote AutoRace",
+          "args": [
+            "scripts/promote-auto-import.js",
+            "202606"
+          ],
+          "optional": false,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-auto-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "Wrote data\\sources\\auto-202606.csv (65 rows)\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:53.092Z",
+          "finishedAt": "2026-05-27T00:42:53.171Z",
+          "elapsedMs": 79
+        }
+      ]
+    },
+    {
+      "id": "keirin",
+      "label": "KEIRIN",
+      "displayLabel": "競輪",
+      "status": "succeeded",
+      "steps": [
+        {
+          "label": "Fetch",
+          "status": 0,
+          "ok": true,
+          "skipped": true,
+          "reason": "Skipped by --skip-fetch",
+          "startedAt": "2026-05-27T00:42:53.171Z",
+          "finishedAt": "2026-05-27T00:42:53.171Z",
+          "elapsedMs": 0
+        },
+        {
+          "label": "Check KEIRIN",
+          "args": [
+            "scripts/check-keirin-import.js",
+            "202606"
+          ],
+          "optional": true,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-keirin-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "OK Import CSV exists (data\\incoming\\keirin\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (233 rows)\nOK Category is keirin\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nKeirin import check passed: 8 checks\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:53.171Z",
+          "finishedAt": "2026-05-27T00:42:53.253Z",
+          "elapsedMs": 82
+        },
+        {
+          "label": "Promote KEIRIN",
+          "args": [
+            "scripts/promote-keirin-import.js",
+            "202606"
+          ],
+          "optional": false,
+          "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-keirin-import.js 202606",
+          "status": 0,
+          "ok": true,
+          "stdout": "Wrote data\\sources\\keirin-202606.csv (233 rows)\n",
+          "stderr": "",
+          "error": "",
+          "startedAt": "2026-05-27T00:42:53.253Z",
+          "finishedAt": "2026-05-27T00:42:53.340Z",
+          "elapsedMs": 87
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "label": "Fetch",
+      "status": 0,
+      "ok": true,
+      "skipped": true,
+      "reason": "Skipped by --skip-fetch",
+      "startedAt": "2026-05-27T00:42:52.577Z",
+      "finishedAt": "2026-05-27T00:42:52.577Z",
+      "elapsedMs": 0
+    },
+    {
+      "label": "Check Local keiba",
+      "args": [
+        "scripts/check-local-keiba-import.js",
+        "202606"
+      ],
+      "optional": true,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-local-keiba-import.js 202606",
+      "status": 1,
+      "ok": false,
+      "stdout": "NG Import CSV exists (data\\incoming\\local-keiba\\202606\\202606_events.csv)\nNG Header exists\nNG Has imported rows (0 rows)\nOK Category is local-keiba\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n",
+      "stderr": "\nLocal keiba import check failed: 3 issue(s)\n",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:52.577Z",
+      "finishedAt": "2026-05-27T00:42:52.657Z",
+      "elapsedMs": 80
+    },
+    {
+      "label": "Fetch",
+      "status": 0,
+      "ok": true,
+      "skipped": true,
+      "reason": "Skipped by --skip-fetch",
+      "startedAt": "2026-05-27T00:42:52.658Z",
+      "finishedAt": "2026-05-27T00:42:52.658Z",
+      "elapsedMs": 0
+    },
+    {
+      "label": "Check JRA",
+      "args": [
+        "scripts/check-jra-import.js",
+        "202606"
+      ],
+      "optional": true,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-jra-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "OK Import CSV exists (data\\incoming\\jra\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (22 rows)\nOK Category is jra\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nJRA import check passed: 8 checks\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:52.658Z",
+      "finishedAt": "2026-05-27T00:42:52.739Z",
+      "elapsedMs": 81
+    },
+    {
+      "label": "Promote JRA",
+      "args": [
+        "scripts/promote-jra-import.js",
+        "202606"
+      ],
+      "optional": false,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-jra-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "Wrote data\\sources\\jra-202606.csv (22 rows)\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:52.739Z",
+      "finishedAt": "2026-05-27T00:42:52.820Z",
+      "elapsedMs": 81
+    },
+    {
+      "label": "Fetch",
+      "status": 0,
+      "ok": true,
+      "skipped": true,
+      "reason": "Skipped by --skip-fetch",
+      "startedAt": "2026-05-27T00:42:52.820Z",
+      "finishedAt": "2026-05-27T00:42:52.820Z",
+      "elapsedMs": 0
+    },
+    {
+      "label": "Check BOAT RACE",
+      "args": [
+        "scripts/check-boat-import.js",
+        "202606"
+      ],
+      "optional": true,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-boat-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "OK Import CSV exists (data\\incoming\\boat\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (386 rows)\nOK Category is boat\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nBoat import check passed: 8 checks\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:52.820Z",
+      "finishedAt": "2026-05-27T00:42:52.914Z",
+      "elapsedMs": 94
+    },
+    {
+      "label": "Promote BOAT RACE",
+      "args": [
+        "scripts/promote-boat-import.js",
+        "202606"
+      ],
+      "optional": false,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-boat-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "Wrote data\\sources\\boat-202606.csv (386 rows)\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:52.914Z",
+      "finishedAt": "2026-05-27T00:42:53.007Z",
+      "elapsedMs": 93
+    },
+    {
+      "label": "Fetch",
+      "status": 0,
+      "ok": true,
+      "skipped": true,
+      "reason": "Skipped by --skip-fetch",
+      "startedAt": "2026-05-27T00:42:53.007Z",
+      "finishedAt": "2026-05-27T00:42:53.007Z",
+      "elapsedMs": 0
+    },
+    {
+      "label": "Check AutoRace",
+      "args": [
+        "scripts/check-auto-import.js",
+        "202606"
+      ],
+      "optional": true,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-auto-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "OK Import CSV exists (data\\incoming\\auto\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (65 rows)\nOK Category is auto\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nAuto import check passed: 8 checks\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:53.007Z",
+      "finishedAt": "2026-05-27T00:42:53.092Z",
+      "elapsedMs": 85
+    },
+    {
+      "label": "Promote AutoRace",
+      "args": [
+        "scripts/promote-auto-import.js",
+        "202606"
+      ],
+      "optional": false,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-auto-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "Wrote data\\sources\\auto-202606.csv (65 rows)\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:53.092Z",
+      "finishedAt": "2026-05-27T00:42:53.171Z",
+      "elapsedMs": 79
+    },
+    {
+      "label": "Fetch",
+      "status": 0,
+      "ok": true,
+      "skipped": true,
+      "reason": "Skipped by --skip-fetch",
+      "startedAt": "2026-05-27T00:42:53.171Z",
+      "finishedAt": "2026-05-27T00:42:53.171Z",
+      "elapsedMs": 0
+    },
+    {
+      "label": "Check KEIRIN",
+      "args": [
+        "scripts/check-keirin-import.js",
+        "202606"
+      ],
+      "optional": true,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/check-keirin-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "OK Import CSV exists (data\\incoming\\keirin\\202606\\202606_events.csv)\nOK Header exists\nOK Has imported rows (233 rows)\nOK Category is keirin\nOK Rows use exact dates\nOK No duplicate ids\nOK Start times are valid\nOK End times are valid\n\nKeirin import check passed: 8 checks\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:53.171Z",
+      "finishedAt": "2026-05-27T00:42:53.253Z",
+      "elapsedMs": 82
+    },
+    {
+      "label": "Promote KEIRIN",
+      "args": [
+        "scripts/promote-keirin-import.js",
+        "202606"
+      ],
+      "optional": false,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/promote-keirin-import.js 202606",
+      "status": 0,
+      "ok": true,
+      "stdout": "Wrote data\\sources\\keirin-202606.csv (233 rows)\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:53.253Z",
+      "finishedAt": "2026-05-27T00:42:53.340Z",
+      "elapsedMs": 87
+    },
+    {
+      "label": "Filter manual sources",
+      "args": [
+        "scripts/filter-manual-sources.js",
+        "local-keiba,jra,boat,auto,keirin"
+      ],
+      "optional": false,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/filter-manual-sources.js local-keiba,jra,boat,auto,keirin",
+      "status": 0,
+      "ok": true,
+      "stdout": "Wrote data\\sources\\manual-base.csv (0 rows, excluded categories: local-keiba, jra, boat, auto, keirin)\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:53.341Z",
+      "finishedAt": "2026-05-27T00:42:53.416Z",
+      "elapsedMs": 75
+    },
+    {
+      "label": "Merge source CSVs",
+      "args": [
+        "scripts/merge-source-csvs.js"
+      ],
+      "optional": false,
+      "command": "C:\\Users\\golp\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe scripts/merge-source-csvs.js",
+      "status": 0,
+      "ok": true,
+      "stdout": "Wrote data\\events.csv (1554 rows from 10 source files)\n",
+      "stderr": "",
+      "error": "",
+      "startedAt": "2026-05-27T00:42:53.416Z",
+      "finishedAt": "2026-05-27T00:42:53.540Z",
+      "elapsedMs": 124
+    },
+    {
+      "label": "Update generated app data",
+      "status": 0,
+      "ok": true,
+      "skipped": true,
+      "reason": "Skipped by --skip-update",
+      "startedAt": "2026-05-27T00:42:53.540Z",
+      "finishedAt": "2026-05-27T00:42:53.540Z",
+      "elapsedMs": 0
+    }
+  ],
+  "summary": {
+    "succeeded": [
+      "jra",
+      "boat",
+      "auto",
+      "keirin"
+    ],
+    "skipped": [
+      "local-keiba"
+    ],
+    "failed": []
+  },
+  "finishedAt": "2026-05-27T00:42:53.540Z",
+  "ok": true
+}

@@ -1,0 +1,5 @@
+id,category,venueName,region,startTime,endTime,days,dates,officialUrl,night,memo,accessNote
+local-oi,local-keiba,大井競馬場,東京都,14:20,20:50,1;2;3;4;5,,https://www.tokyocitykeiba.com/,true,ナイター確認に便利。,大井競馬場前駅が便利
+local-monbetsu,local-keiba,門別競馬場,北海道,14:30,20:40,2;3;4,,https://www.hokkaidokeiba.net/,true,ホッカイドウ競馬のサンプル。,車移動前提で確認
+local-sonoda,local-keiba,園田競馬場,兵庫県,10:40,17:00,2;3;4,,https://www.sonoda-himeji.jp/,false,平日地方競馬の確認用。,園田駅周辺からアクセス確認
+sample-special-2026-05-24,local-keiba,サンプル特別開催場,サンプル県,12:00,18:00,,2026-05-24,https://www.keiba.go.jp/,false,日付指定開催の動作確認用。,サンプルアクセス

@@ -1,0 +1,5 @@
+id,category,venueName,region,startTime,endTime,days,dates,officialUrl,night,memo,accessNote
+boat-suminoe,boat,ボートレース住之江,大阪府,15:00,20:45,0;2;4;6,,https://www.boatrace-suminoe.jp/,true,ナイター候補として見やすい。,住之江公園駅が便利
+boat-heiwajima,boat,ボートレース平和島,東京都,10:30,16:30,1;3;5,,https://www.heiwajima.gr.jp/,false,都内ボート候補。,平和島駅・大森駅からアクセス確認
+boat-fukuoka,boat,ボートレース福岡,福岡県,10:20,16:20,0;1;4,,https://www.boatrace-fukuoka.com/,false,福岡方面の候補。,天神エリアからアクセス確認
+boat-gamagori,boat,ボートレース蒲郡,愛知県,15:15,20:50,1;3;6,,https://www.gamagori-kyotei.com/,true,ナイター候補。,蒲郡駅周辺からアクセス確認

@@ -1,0 +1,23 @@
+id,category,venueName,region,startTime,endTime,days,dates,officialUrl,night,memo,accessNote
+jra-2026-06-06-han,jra,阪神競馬場,兵庫県,09:50,16:30,,2026-06-06,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,阪神競馬場の公式発表もあわせて確認してください。
+jra-2026-06-06-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-06-06,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,東京競馬場の公式発表もあわせて確認してください。
+jra-2026-06-07-han,jra,阪神競馬場,兵庫県,09:50,16:30,,2026-06-07,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Yasuda Kinen (G1),阪神競馬場の公式発表もあわせて確認してください。
+jra-2026-06-07-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-06-07,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Yasuda Kinen (G1),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-06-13-han,jra,阪神競馬場,兵庫県,09:50,16:30,,2026-06-13,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tokyo Jump Stakes (J-G3),阪神競馬場の公式発表もあわせて確認してください。
+jra-2026-06-13-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-06-13,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tokyo Jump Stakes (J-G3),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-06-13-hak,jra,函館競馬場,北海道,09:50,16:30,,2026-06-13,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Tokyo Jump Stakes (J-G3),函館競馬場の公式発表もあわせて確認してください。
+jra-2026-06-14-han,jra,阪神競馬場,兵庫県,09:50,16:30,,2026-06-14,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Takarazuka Kinen (G1),阪神競馬場の公式発表もあわせて確認してください。
+jra-2026-06-14-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-06-14,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Takarazuka Kinen (G1),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-06-14-hak,jra,函館競馬場,北海道,09:50,16:30,,2026-06-14,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Takarazuka Kinen (G1),函館競馬場の公式発表もあわせて確認してください。
+jra-2026-06-20-han,jra,阪神競馬場,兵庫県,09:50,16:30,,2026-06-20,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,阪神競馬場の公式発表もあわせて確認してください。
+jra-2026-06-20-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-06-20,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,東京競馬場の公式発表もあわせて確認してください。
+jra-2026-06-20-hak,jra,函館競馬場,北海道,09:50,16:30,,2026-06-20,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,函館競馬場の公式発表もあわせて確認してください。
+jra-2026-06-21-han,jra,阪神競馬場,兵庫県,09:50,16:30,,2026-06-21,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Fuchu Himba Stakes (G3),阪神競馬場の公式発表もあわせて確認してください。
+jra-2026-06-21-tok,jra,東京競馬場,東京都,09:50,16:30,,2026-06-21,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Fuchu Himba Stakes (G3),東京競馬場の公式発表もあわせて確認してください。
+jra-2026-06-21-hak,jra,函館競馬場,北海道,09:50,16:30,,2026-06-21,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Fuchu Himba Stakes (G3),函館競馬場の公式発表もあわせて確認してください。
+jra-2026-06-27-kok,jra,小倉競馬場,福岡県,09:50,16:30,,2026-06-27,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,小倉競馬場の公式発表もあわせて確認してください。
+jra-2026-06-27-hak,jra,函館競馬場,北海道,09:50,16:30,,2026-06-27,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,函館競馬場の公式発表もあわせて確認してください。
+jra-2026-06-27-fuk,jra,福島競馬場,福島県,09:50,16:30,,2026-06-27,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。開催日程,福島競馬場の公式発表もあわせて確認してください。
+jra-2026-06-28-kok,jra,小倉競馬場,福岡県,09:50,16:30,,2026-06-28,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Radio Nikkei Sho (G3),小倉競馬場の公式発表もあわせて確認してください。
+jra-2026-06-28-hak,jra,函館競馬場,北海道,09:50,16:30,,2026-06-28,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Radio Nikkei Sho (G3),函館競馬場の公式発表もあわせて確認してください。
+jra-2026-06-28-fuk,jra,福島競馬場,福島県,09:50,16:30,,2026-06-28,https://www.jra.go.jp/,false,JRA公式カレンダーから取り込み。主なレース: Radio Nikkei Sho (G3),福島競馬場の公式発表もあわせて確認してください。

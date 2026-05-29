@@ -1,0 +1,24906 @@
+(function () {
+  window.RaceDayExternalData = {
+  "build": "events-csv-v1",
+  "sourceName": "Local CSV data",
+  "generatedAt": "2026-05-27T02:09:30.721Z",
+  "coverage": {
+    "months": [
+      "2026-05",
+      "2026-06"
+    ],
+    "categories": {
+      "jra": [
+        "2026-05",
+        "2026-06"
+      ],
+      "local-keiba": [
+        "2026-05"
+      ],
+      "boat": [
+        "2026-05",
+        "2026-06"
+      ],
+      "auto": [
+        "2026-05",
+        "2026-06"
+      ],
+      "keirin": [
+        "2026-05",
+        "2026-06"
+      ]
+    },
+    "missingByMonth": {
+      "2026-05": [],
+      "2026-06": [
+        "local-keiba"
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "auto-2026-05-01-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:30",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。第51回上毛新聞社杯 / 4/30～5/1 14:30～20:50 / 5/2 14:30～21:00",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-01-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ / 4/30～5/2 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-02-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:30",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。第51回上毛新聞社杯 / 4/30～5/1 14:30～20:50 / 5/2 14:30～21:00",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-02-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ / 4/30～5/2 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-03-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 5/3～5/5 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-03-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第２回２節 / 5/3～5/4 10:30～16:55 / 5/5 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-03-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "14:55",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。庄内のうどん王国杯争奪戦 / 5/3～5/5 14:55～21:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-04-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 5/3～5/5 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-04-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第２回２節 / 5/3～5/4 10:30～16:55 / 5/5 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-04-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "14:55",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。庄内のうどん王国杯争奪戦 / 5/3～5/5 14:55～21:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-05-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 5/3～5/5 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-05-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第２回２節 / 5/3～5/4 10:30～16:55 / 5/5 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-05-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "14:55",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。庄内のうどん王国杯争奪戦 / 5/3～5/5 14:55～21:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-06-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 5/6～5/8 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-06-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:05",
+      "endTime": "17:10",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。遠鉄グリーンカップGI開場７０周年記念ゴールデンレース / 5/6～5/9 10:05～17:10 / 5/10 10:05～17:20",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-07-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 5/6～5/8 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-07-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:05",
+      "endTime": "17:10",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。遠鉄グリーンカップGI開場７０周年記念ゴールデンレース / 5/6～5/9 10:05～17:10 / 5/10 10:05～17:20",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-08-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 5/6～5/8 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-08-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:05",
+      "endTime": "17:10",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。遠鉄グリーンカップGI開場７０周年記念ゴールデンレース / 5/6～5/9 10:05～17:10 / 5/10 10:05～17:20",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-09-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 5/9～5/11 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-09-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:05",
+      "endTime": "17:10",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。遠鉄グリーンカップGI開場７０周年記念ゴールデンレース / 5/6～5/9 10:05～17:10 / 5/10 10:05～17:20",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-10-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 5/9～5/11 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-10-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:05",
+      "endTime": "17:10",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。遠鉄グリーンカップGI開場７０周年記念ゴールデンレース / 5/6～5/9 10:05～17:10 / 5/10 10:05～17:20",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-11-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 5/9～5/11 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-11-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。全日警杯争奪戦 / 5/11～5/13 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-12-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽ミッドナイトオートレース　当たるんですＣＵＰ / 5/12～5/14 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-12-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。全日警杯争奪戦 / 5/11～5/13 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-13-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽ミッドナイトオートレース　当たるんですＣＵＰ / 5/12～5/14 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-13-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。全日警杯争奪戦 / 5/11～5/13 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-14-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽ミッドナイトオートレース　当たるんですＣＵＰ / 5/12～5/14 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-14-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。ＷＩＮＴＩＣＫＥＴ杯　ＫＡＷＡＧＵＣＨＩ ＡＵＴＯＲＡＣＥ ＣＬＡＳＳＩＣ ２０２６ / 5/14～5/16 10:30～16:55 / 5/17 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-15-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:30",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。第9回オートレース成田杯 / 5/15～5/16 14:30～20:50 / 5/17 14:30～21:00",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-15-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。ＷＩＮＴＩＣＫＥＴ杯　ＫＡＷＡＧＵＣＨＩ ＡＵＴＯＲＡＣＥ ＣＬＡＳＳＩＣ ２０２６ / 5/14～5/16 10:30～16:55 / 5/17 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-16-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:30",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。第9回オートレース成田杯 / 5/15～5/16 14:30～20:50 / 5/17 14:30～21:00",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-16-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。ＷＩＮＴＩＣＫＥＴ杯　ＫＡＷＡＧＵＣＨＩ ＡＵＴＯＲＡＣＥ ＣＬＡＳＳＩＣ ２０２６ / 5/14～5/16 10:30～16:55 / 5/17 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-17-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:30",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。第9回オートレース成田杯 / 5/15～5/16 14:30～20:50 / 5/17 14:30～21:00",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-17-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。ＷＩＮＴＩＣＫＥＴ杯　ＫＡＷＡＧＵＣＨＩ ＡＵＴＯＲＡＣＥ ＣＬＡＳＳＩＣ ２０２６ / 5/14～5/16 10:30～16:55 / 5/17 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-18-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "17:35",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター / 5/18～5/20 17:35～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-18-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ / 5/18～5/20 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-19-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "17:35",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター / 5/18～5/20 17:35～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-19-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ / 5/18～5/20 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-20-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "17:35",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター / 5/18～5/20 17:35～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-20-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ / 5/18～5/20 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-21-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽ミッドナイトオートレース / 5/21～5/23 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-21-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第13回HK交通タクシーブルーラインカップ～A級チャンピオン決定戦～ / 5/21～5/23 10:25～16:55",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-22-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽ミッドナイトオートレース / 5/21～5/23 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-22-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第13回HK交通タクシーブルーラインカップ～A級チャンピオン決定戦～ / 5/21～5/23 10:25～16:55",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-23-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽ミッドナイトオートレース / 5/21～5/23 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-23-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第13回HK交通タクシーブルーラインカップ～A級チャンピオン決定戦～ / 5/21～5/23 10:25～16:55",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-24-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第４回１節 / 5/24～5/25 10:30～16:55 / 5/26 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-24-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 5/24～5/26 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-25-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第４回１節 / 5/24～5/25 10:30～16:55 / 5/26 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-25-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 5/24～5/26 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-26-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第４回１節 / 5/24～5/25 10:30～16:55 / 5/26 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-26-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 5/24～5/26 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-27-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "13:45",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ / 5/27～5/29 13:45～20:50 / 5/30 13:45～21:00 / 5/31 13:45～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-27-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 5/27～5/29 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-28-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "13:45",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ / 5/27～5/29 13:45～20:50 / 5/30 13:45～21:00 / 5/31 13:45～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-28-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 5/27～5/29 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-29-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "13:45",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ / 5/27～5/29 13:45～20:50 / 5/30 13:45～21:00 / 5/31 13:45～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-29-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 5/27～5/29 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-29-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "13:45",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ　浜松アーリーレース / 5/29～5/31 9:30～13:45",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-30-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "13:45",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ / 5/27～5/29 13:45～20:50 / 5/30 13:45～21:00 / 5/31 13:45～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-30-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "13:45",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ　浜松アーリーレース / 5/29～5/31 9:30～13:45",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-31-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "13:45",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。さわやか杯ＧⅠ第３３回ムーンライトチャンピオンカップ / 5/27～5/29 13:45～20:50 / 5/30 13:45～21:00 / 5/31 13:45～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-05-31-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "13:45",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ　浜松アーリーレース / 5/29～5/31 9:30～13:45",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-01-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第４回２節 / 6/1～6/2 10:30～16:55 / 6/3 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-01-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 6/1～6/3 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-02-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第４回２節 / 6/1～6/2 10:30～16:55 / 6/3 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-02-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 6/1～6/3 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-03-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第４回２節 / 6/1～6/2 10:30～16:55 / 6/3 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-03-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 6/1～6/3 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-04-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/4～6/6 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-04-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第17回浜松観光食堂杯フードアタック / 6/4～6/6 10:25～16:55",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-05-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/4～6/6 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-05-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第17回浜松観光食堂杯フードアタック / 6/4～6/6 10:25～16:55",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-06-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/4～6/6 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-06-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第17回浜松観光食堂杯フードアタック / 6/4～6/6 10:25～16:55",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-07-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "17:35",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター / 6/7～6/9 17:35～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-07-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。美祢警備保障杯 / 6/7～6/9 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-07-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚オーバーミッドナイトオートレース～オトもっちカップ～ / 6/7～6/9 21:00～24:50",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-08-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "17:35",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター / 6/7～6/9 17:35～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-08-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。美祢警備保障杯 / 6/7～6/9 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-08-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚オーバーミッドナイトオートレース～オトもっちカップ～ / 6/7～6/9 21:00～24:50",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-09-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "17:35",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにPLAY！オッズパーク杯伊勢崎オートアフター５ナイター / 6/7～6/9 17:35～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-09-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。美祢警備保障杯 / 6/7～6/9 10:25～16:55",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-09-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚オーバーミッドナイトオートレース～オトもっちカップ～ / 6/7～6/9 21:00～24:50",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-10-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽オーバーミッドナイトオートレース　当たるんですＣＵＰ / 6/10～6/12 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-10-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "14:15",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。スポーツニッポン新聞社杯ＧⅡ川口記念 / 6/10～6/13 14:15～21:05 / 6/14 14:15～21:15",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-11-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽オーバーミッドナイトオートレース　当たるんですＣＵＰ / 6/10～6/12 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-11-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "14:15",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。スポーツニッポン新聞社杯ＧⅡ川口記念 / 6/10～6/13 14:15～21:05 / 6/14 14:15～21:15",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-12-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽オーバーミッドナイトオートレース　当たるんですＣＵＰ / 6/10～6/12 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-12-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "14:15",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。スポーツニッポン新聞社杯ＧⅡ川口記念 / 6/10～6/13 14:15～21:05 / 6/14 14:15～21:15",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-12-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "14:15",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ浜松アーリーレース / 6/12～6/14 9:30～14:15",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-13-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "14:15",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。スポーツニッポン新聞社杯ＧⅡ川口記念 / 6/10～6/13 14:15～21:05 / 6/14 14:15～21:15",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-13-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "14:15",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ浜松アーリーレース / 6/12～6/14 9:30～14:15",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-14-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "14:15",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。スポーツニッポン新聞社杯ＧⅡ川口記念 / 6/10～6/13 14:15～21:05 / 6/14 14:15～21:15",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-14-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "14:15",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ浜松アーリーレース / 6/12～6/14 9:30～14:15",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-15-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽ミッドナイトオートレース　当たるんですＣＵＰ / 6/15～6/17 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-15-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。にしてつ杯争奪戦 / 6/15～6/17 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-16-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽ミッドナイトオートレース　当たるんですＣＵＰ / 6/15～6/17 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-16-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。にしてつ杯争奪戦 / 6/15～6/17 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-17-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "19:25",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。山陽ミッドナイトオートレース　当たるんですＣＵＰ / 6/15～6/17 19:25～24:00",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-17-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。にしてつ杯争奪戦 / 6/15～6/17 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-18-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第５回１節 / 6/18～6/19 10:30～16:55 / 6/20 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-18-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 6/18～6/20 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-19-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第５回１節 / 6/18～6/19 10:30～16:55 / 6/20 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-19-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 6/18～6/20 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-20-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。川口市営第５回１節 / 6/18～6/19 10:30～16:55 / 6/20 10:30～17:00",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-20-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "19:50",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯飯塚ミッドナイトオートレース～オトもっちカップ～ / 6/18～6/20 19:50～24:05",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-21-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/21～6/23 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-21-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "11:25",
+      "endTime": "18:25",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第12回大成ロテック杯 / 6/21～6/23 11:25～18:25",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-22-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/21～6/23 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-22-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "11:25",
+      "endTime": "18:25",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第12回大成ロテック杯 / 6/21～6/23 11:25～18:25",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-23-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/21～6/23 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-23-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "11:25",
+      "endTime": "18:25",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。第12回大成ロテック杯 / 6/21～6/23 11:25～18:25",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-24-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。日本トーター・日刊スポーツ杯ＧⅡ稲妻賞 / 6/24～6/27 14:00～21:00 / 6/28 14:00～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-24-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 6/24～6/26 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-25-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。日本トーター・日刊スポーツ杯ＧⅡ稲妻賞 / 6/24～6/27 14:00～21:00 / 6/28 14:00～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-25-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 6/24～6/26 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-26-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。日本トーター・日刊スポーツ杯ＧⅡ稲妻賞 / 6/24～6/27 14:00～21:00 / 6/28 14:00～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-26-6",
+      "category": "auto",
+      "venueName": "山陽オートレース場",
+      "region": "山口県",
+      "startTime": "21:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://autorace.jp/sanyou/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。おトクにＰＬＡＹ！オッズパーク杯山陽オーバーミッドナイトオートレース / 6/24～6/26 21:00～24:50",
+      "accessNote": "山陽オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-26-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "13:50",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ浜松アーリーレース / 6/26～6/28 9:00～13:50",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-27-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。日本トーター・日刊スポーツ杯ＧⅡ稲妻賞 / 6/24～6/27 14:00～21:00 / 6/28 14:00～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-27-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "13:50",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ浜松アーリーレース / 6/26～6/28 9:00～13:50",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-28-3",
+      "category": "auto",
+      "venueName": "伊勢崎オートレース場",
+      "region": "群馬県",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://autorace.jp/isesaki/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。日本トーター・日刊スポーツ杯ＧⅡ稲妻賞 / 6/24～6/27 14:00～21:00 / 6/28 14:00～21:10",
+      "accessNote": "伊勢崎オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-28-4",
+      "category": "auto",
+      "venueName": "浜松オートレース場",
+      "region": "静岡県",
+      "startTime": "08:30",
+      "endTime": "13:50",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://autorace.jp/hamamatsu/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。AutoRace.JP投票杯オトもっちカップ浜松アーリーレース / 6/26～6/28 9:00～13:50",
+      "accessNote": "浜松オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-29-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/29～7/1 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-29-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。スポニチ杯フルスロットルバトル / 6/29～7/1 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-30-2",
+      "category": "auto",
+      "venueName": "川口オートレース場",
+      "region": "埼玉県",
+      "startTime": "18:25",
+      "endTime": "22:10",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://autorace.jp/kawaguchi/",
+      "night": true,
+      "memo": "AutoRace.JP公式データから取り込み。テレ玉presents　川口ナイトレース / 6/29～7/1 18:25～22:10",
+      "accessNote": "川口オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "auto-2026-06-30-5",
+      "category": "auto",
+      "venueName": "飯塚オートレース場",
+      "region": "福岡県",
+      "startTime": "10:25",
+      "endTime": "16:55",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://autorace.jp/iizuka/",
+      "night": false,
+      "memo": "AutoRace.JP公式データから取り込み。スポニチ杯フルスロットルバトル / 6/29～7/1 10:25～16:55",
+      "accessNote": "飯塚オートレース場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ下関 ＧＷ特選 / 4/29-5/4 ３日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ賞 第５５回竹島弁天杯 / 5/1-5/6 初日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５５回サンケイスポーツ若葉賞 / 4/30-5/5 ２日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５３回上毛新聞社杯 / 5/1-5/6 初日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回ウインビーカップ / 5/1-5/6 初日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ゴールデンカップ / 4/26-5/1 最終日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯ＧＷ特選競走 / 5/1-5/6 初日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３３回多摩川さつき杯 / 4/27-5/2 ５日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 １ / 4/26-5/1 最終日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞ＧＷ唐津特選 / 5/1-5/6 初日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。山口放送開局７０周年記念ＫＲＹ山口放送杯争奪戦 / 4/27-5/2 ５日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。どんたく特選レース・福岡市民の祭り振興会会長杯 / 4/29-5/4 ３日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-01-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース第４２回渦の女王決定戦競走 / 4/29-5/4 ３日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。滋賀県知事杯争奪 第２７回ビナちゃんカップ / 4/30-5/6 ３日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ下関 ＧＷ特選 / 4/29-5/4 ４日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ賞 第５５回竹島弁天杯 / 5/1-5/6 ２日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５５回サンケイスポーツ若葉賞 / 4/30-5/5 ３日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５３回上毛新聞社杯 / 5/1-5/6 ２日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回ウインビーカップ / 5/1-5/6 ２日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＧＷ三国ボートフェスタ / 5/2-5/7 初日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回鷲羽杯 / 5/2-5/7 初日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯ＧＷ特選競走 / 5/1-5/6 ２日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３３回多摩川さつき杯 / 4/27-5/2 最終日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポンパール賞競走 / 4/30-5/6 ３日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞ＧＷ唐津特選 / 5/1-5/6 ２日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。山口放送開局７０周年記念ＫＲＹ山口放送杯争奪戦 / 4/27-5/2 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。どんたく特選レース・福岡市民の祭り振興会会長杯 / 4/29-5/4 ４日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-02-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース第４２回渦の女王決定戦競走 / 4/29-5/4 ４日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。滋賀県知事杯争奪 第２７回ビナちゃんカップ / 4/30-5/6 ４日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ下関 ＧＷ特選 / 4/29-5/4 ５日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ賞 第５５回竹島弁天杯 / 5/1-5/6 ３日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５５回サンケイスポーツ若葉賞 / 4/30-5/5 ４日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５３回上毛新聞社杯 / 5/1-5/6 ３日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回ウインビーカップ / 5/1-5/6 ３日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＧＷ三国ボートフェスタ / 5/2-5/7 ２日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回鷲羽杯 / 5/2-5/7 ２日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。２０２６ラピートカップ / 5/3-5/8 初日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ杯争奪第４６回チャンピオン大会 / 5/3-5/8 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポンパール賞競走 / 4/30-5/6 ４日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞ＧＷ唐津特選 / 5/1-5/6 ３日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。浜松市長杯争奪戦 やらまいかカップ / 5/3-5/8 初日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。どんたく特選レース・福岡市民の祭り振興会会長杯 / 4/29-5/4 ５日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２回京急開発グループ杯 / 5/3-5/8 初日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-03-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース第４２回渦の女王決定戦競走 / 4/29-5/4 ５日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ下関 ＧＷ特選 / 4/29-5/4 最終日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ賞 第５５回竹島弁天杯 / 5/1-5/6 ４日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５５回サンケイスポーツ若葉賞 / 4/30-5/5 ５日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回ウインビーカップ / 5/1-5/6 ４日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＧＷ三国ボートフェスタ / 5/2-5/7 ３日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回鷲羽杯 / 5/2-5/7 ３日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯ＧＷ特選競走 / 5/1-5/6 ４日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。２０２６ラピートカップ / 5/3-5/8 ２日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ杯争奪第４６回チャンピオン大会 / 5/3-5/8 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞ＧＷ唐津特選 / 5/1-5/6 ４日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５８回報知金杯争奪 六甲賞競走 / 5/4-5/9 初日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。浜松市長杯争奪戦 やらまいかカップ / 5/3-5/8 ２日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。どんたく特選レース・福岡市民の祭り振興会会長杯 / 4/29-5/4 最終日",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２回京急開発グループ杯 / 5/3-5/8 ２日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-04-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース第４２回渦の女王決定戦競走 / 4/29-5/4 最終日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。滋賀県知事杯争奪 第２７回ビナちゃんカップ / 4/30-5/6 ５日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ賞 第５５回竹島弁天杯 / 5/1-5/6 ５日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１１回レディースオールスター / 5/5-5/10 初日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５５回サンケイスポーツ若葉賞 / 4/30-5/5 最終日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５３回上毛新聞社杯 / 5/1-5/6 ５日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回ウインビーカップ / 5/1-5/6 ５日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＧＷ三国ボートフェスタ / 5/2-5/7 ４日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回鷲羽杯 / 5/2-5/7 ４日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯ＧＷ特選競走 / 5/1-5/6 ５日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。２０２６ラピートカップ / 5/3-5/8 ３日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ杯争奪第４６回チャンピオン大会 / 5/3-5/8 ３日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポンパール賞競走 / 4/30-5/6 ５日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞ＧＷ唐津特選 / 5/1-5/6 ５日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ニッカン・コム杯争奪戦 / 5/5-5/9 初日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５８回報知金杯争奪 六甲賞競走 / 5/4-5/9 ２日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。浜松市長杯争奪戦 やらまいかカップ / 5/3-5/8 ３日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-05-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２回京急開発グループ杯 / 5/3-5/8 ３日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。滋賀県知事杯争奪 第２７回ビナちゃんカップ / 4/30-5/6 最終日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 5/6-5/10 初日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ賞 第５５回竹島弁天杯 / 5/1-5/6 最終日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１１回レディースオールスター / 5/5-5/10 ２日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５３回上毛新聞社杯 / 5/1-5/6 最終日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回ウインビーカップ / 5/1-5/6 最終日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＧＷ三国ボートフェスタ / 5/2-5/7 ５日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回鷲羽杯 / 5/2-5/7 ５日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯ＧＷ特選競走 / 5/1-5/6 最終日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。２０２６ラピートカップ / 5/3-5/8 ４日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ杯争奪第４６回チャンピオン大会 / 5/3-5/8 ４日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回マンスリーＢＯＡＴＲＡＣＥ杯 / 5/6-5/11 初日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポンパール賞競走 / 4/30-5/6 最終日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞ＧＷ唐津特選 / 5/1-5/6 最終日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ニッカン・コム杯争奪戦 / 5/5-5/9 ２日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５８回報知金杯争奪 六甲賞競走 / 5/4-5/9 ３日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。浜松市長杯争奪戦 やらまいかカップ / 5/3-5/8 ４日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-06-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２回京急開発グループ杯 / 5/3-5/8 ４日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 5/6-5/10 ２日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１１回レディースオールスター / 5/5-5/10 ３日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＧＷ三国ボートフェスタ / 5/2-5/7 最終日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回鷲羽杯 / 5/2-5/7 最終日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。２０２６ラピートカップ / 5/3-5/8 ５日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ杯争奪第４６回チャンピオン大会 / 5/3-5/8 ５日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回マンスリーＢＯＡＴＲＡＣＥ杯 / 5/6-5/11 ２日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。長崎新聞社杯 / 5/7-5/11 初日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ニッカン・コム杯争奪戦 / 5/5-5/9 ３日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５８回報知金杯争奪 六甲賞競走 / 5/4-5/9 ４日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。浜松市長杯争奪戦 やらまいかカップ / 5/3-5/8 ５日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-07-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２回京急開発グループ杯 / 5/3-5/8 ５日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 5/6-5/10 ３日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１１回レディースオールスター / 5/5-5/10 ４日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。２０２６ラピートカップ / 5/3-5/8 最終日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。中日スポーツ杯争奪第４６回チャンピオン大会 / 5/3-5/8 最終日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回マンスリーＢＯＡＴＲＡＣＥ杯 / 5/6-5/11 ３日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。長崎新聞社杯 / 5/7-5/11 ２日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ニッカン・コム杯争奪戦 / 5/5-5/9 ４日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５８回報知金杯争奪 六甲賞競走 / 5/4-5/9 ５日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。浜松市長杯争奪戦 やらまいかカップ / 5/3-5/8 最終日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース福岡レストラン和風ダイニングかっぱ杯 / 5/8-5/13 初日",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２回京急開発グループ杯 / 5/3-5/8 最終日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-08-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本モーターボート選手会会長杯競走 / 5/8-5/13 初日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ杯争奪 第４８回さざなみ賞 / 5/9-5/14 初日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 5/6-5/10 ４日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１１回レディースオールスター / 5/5-5/10 ５日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トータルプロデュースカップ / 5/9-5/12 初日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回マンスリーＢＯＡＴＲＡＣＥ杯 / 5/6-5/11 ４日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。長崎新聞社杯 / 5/7-5/11 ３日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三交マキシーカップ / 5/9-5/14 初日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ニッカン・コム杯争奪戦 / 5/5-5/9 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５８回報知金杯争奪 六甲賞競走 / 5/4-5/9 最終日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース福岡レストラン和風ダイニングかっぱ杯 / 5/8-5/13 ２日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-09-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本モーターボート選手会会長杯競走 / 5/8-5/13 ２日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ杯争奪 第４８回さざなみ賞 / 5/9-5/14 ２日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 5/6-5/10 最終日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１１回レディースオールスター / 5/5-5/10 最終日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１５回住信ＳＢＩネット銀行賞 / 5/10-5/15 初日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トータルプロデュースカップ / 5/9-5/12 ２日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回マンスリーＢＯＡＴＲＡＣＥ杯 / 5/6-5/11 ５日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。長崎新聞社杯 / 5/7-5/11 ４日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三交マキシーカップ / 5/9-5/14 ２日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。唐津ミニット開設２２周年記念 / 5/10-5/14 初日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース福岡レストラン和風ダイニングかっぱ杯 / 5/8-5/13 ３日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-10-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本モーターボート選手会会長杯競走 / 5/8-5/13 ３日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ杯争奪 第４８回さざなみ賞 / 5/9-5/14 ３日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１５回住信ＳＢＩネット銀行賞 / 5/10-5/15 ２日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トータルプロデュースカップ / 5/9-5/12 ３日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。寝屋川市制７５周年記念競走 / 5/11-5/14 初日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＩＮＡＸ杯争奪第３８回とこなめ大賞 / 5/11-5/15 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回マンスリーＢＯＡＴＲＡＣＥ杯 / 5/6-5/11 最終日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。長崎新聞社杯 / 5/7-5/11 最終日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三交マキシーカップ / 5/9-5/14 ３日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。唐津ミニット開設２２周年記念 / 5/10-5/14 ２日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース福岡レストラン和風ダイニングかっぱ杯 / 5/8-5/13 ４日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-11-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本モーターボート選手会会長杯競走 / 5/8-5/13 ４日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ杯争奪 第４８回さざなみ賞 / 5/9-5/14 ４日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第３戦 ムーンライトプリンセス決定戦 / 5/12-5/17 初日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５９回サンケイスポーツ杯 / 5/12-5/16 初日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。江戸川６３４杯 モーターボート大賞 / 5/11-5/16 ２日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１５回住信ＳＢＩネット銀行賞 / 5/10-5/15 ３日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トータルプロデュースカップ / 5/9-5/12 最終日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。寝屋川市制７５周年記念競走 / 5/11-5/14 ２日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＩＮＡＸ杯争奪第３８回とこなめ大賞 / 5/11-5/15 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三交マキシーカップ / 5/9-5/14 ４日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。唐津ミニット開設２２周年記念 / 5/10-5/14 ３日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。防長交通杯争奪戦 / 5/12-5/15 初日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース福岡レストラン和風ダイニングかっぱ杯 / 5/8-5/13 ５日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/12-5/16 初日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-12-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本モーターボート選手会会長杯競走 / 5/8-5/13 ５日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ杯争奪 第４８回さざなみ賞 / 5/9-5/14 ５日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１０戦スカパー！ＪＬＣ杯争奪 / 5/13-5/18 初日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第３戦 ムーンライトプリンセス決定戦 / 5/12-5/17 ２日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５９回サンケイスポーツ杯 / 5/12-5/16 ２日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。江戸川６３４杯 モーターボート大賞 / 5/11-5/16 ３日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１５回住信ＳＢＩネット銀行賞 / 5/10-5/15 ４日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。寝屋川市制７５周年記念競走 / 5/11-5/14 ３日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＩＮＡＸ杯争奪第３８回とこなめ大賞 / 5/11-5/15 ３日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三交マキシーカップ / 5/9-5/14 ５日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。唐津ミニット開設２２周年記念 / 5/10-5/14 ４日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。防長交通杯争奪戦 / 5/12-5/15 ２日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース福岡レストラン和風ダイニングかっぱ杯 / 5/8-5/13 最終日",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/12-5/16 ２日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-13-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本モーターボート選手会会長杯競走 / 5/8-5/13 最終日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ杯争奪 第４８回さざなみ賞 / 5/9-5/14 最終日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１０戦スカパー！ＪＬＣ杯争奪 / 5/13-5/18 ２日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第３戦 ムーンライトプリンセス決定戦 / 5/12-5/17 ３日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５９回サンケイスポーツ杯 / 5/12-5/16 ３日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回日本モーターボート選手会カップ / 5/14-5/19 初日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。江戸川６３４杯 モーターボート大賞 / 5/11-5/16 ４日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。道の駅みくに・ふれあいパーク三里浜杯 / 5/14-5/18 初日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１５回住信ＳＢＩネット銀行賞 / 5/10-5/15 ５日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。寝屋川市制７５周年記念競走 / 5/11-5/14 最終日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＩＮＡＸ杯争奪第３８回とこなめ大賞 / 5/11-5/15 ４日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三交マキシーカップ / 5/9-5/14 最終日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。唐津ミニット開設２２周年記念 / 5/10-5/14 最終日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。防長交通杯争奪戦 / 5/12-5/15 ３日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-14-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/12-5/16 ３日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。読売新聞社杯全日本王座決定戦開設７４周年記念 / 5/15-5/20 初日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１０戦スカパー！ＪＬＣ杯争奪 / 5/13-5/18 ３日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第３戦 ムーンライトプリンセス決定戦 / 5/12-5/17 ４日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５９回サンケイスポーツ杯 / 5/12-5/16 ４日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回日本モーターボート選手会カップ / 5/14-5/19 ２日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。江戸川６３４杯 モーターボート大賞 / 5/11-5/16 ５日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。道の駅みくに・ふれあいパーク三里浜杯 / 5/14-5/18 ２日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１５回住信ＳＢＩネット銀行賞 / 5/10-5/15 最終日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松１ｓｔマンスリーＢＯＡＴＲＡＣＥ杯 / 5/15-5/20 初日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＩＮＡＸ杯争奪第３８回とこなめ大賞 / 5/11-5/15 最終日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。防長交通杯争奪戦 / 5/12-5/15 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-15-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/12-5/16 ４日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。読売新聞社杯全日本王座決定戦開設７４周年記念 / 5/15-5/20 ２日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１０戦スカパー！ＪＬＣ杯争奪 / 5/13-5/18 ４日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第３戦 ムーンライトプリンセス決定戦 / 5/12-5/17 ５日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サントリー杯 / 5/16-5/21 初日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第５９回サンケイスポーツ杯 / 5/12-5/16 最終日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回日本モーターボート選手会カップ / 5/14-5/19 ３日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。江戸川６３４杯 モーターボート大賞 / 5/11-5/16 最終日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。道の駅みくに・ふれあいパーク三里浜杯 / 5/14-5/18 ３日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松１ｓｔマンスリーＢＯＡＴＲＡＣＥ杯 / 5/15-5/20 ２日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日伯友好記念 ブラジル杯 / 5/16-5/19 初日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/12-5/16 最終日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-16-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スマホのアプリ「Ｎｏｖｉｌ★ラボ！」杯競走 / 5/16-5/21 初日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。読売新聞社杯全日本王座決定戦開設７４周年記念 / 5/15-5/20 ３日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１０戦スカパー！ＪＬＣ杯争奪 / 5/13-5/18 ５日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第３戦 ムーンライトプリンセス決定戦 / 5/12-5/17 最終日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ふじむら杯 / 5/17-5/23 初日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サントリー杯 / 5/16-5/21 ２日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回日本モーターボート選手会カップ / 5/14-5/19 ４日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。道の駅みくに・ふれあいパーク三里浜杯 / 5/14-5/18 ４日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松１ｓｔマンスリーＢＯＡＴＲＡＣＥ杯 / 5/15-5/20 ３日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日伯友好記念 ブラジル杯 / 5/16-5/19 ２日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-17-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スマホのアプリ「Ｎｏｖｉｌ★ラボ！」杯競走 / 5/16-5/21 ２日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。読売新聞社杯全日本王座決定戦開設７４周年記念 / 5/15-5/20 ４日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１０戦スカパー！ＪＬＣ杯争奪 / 5/13-5/18 最終日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ふじむら杯 / 5/17-5/23 ２日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サントリー杯 / 5/16-5/21 ３日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回日本モーターボート選手会カップ / 5/14-5/19 ５日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。道の駅みくに・ふれあいパーク三里浜杯 / 5/14-5/18 最終日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松１ｓｔマンスリーＢＯＡＴＲＡＣＥ杯 / 5/15-5/20 ４日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツ杯争奪徳山オールレディース / 5/18-5/23 初日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開催日程",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日伯友好記念 ブラジル杯 / 5/16-5/19 ３日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-18-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スマホのアプリ「Ｎｏｖｉｌ★ラボ！」杯競走 / 5/16-5/21 ３日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。読売新聞社杯全日本王座決定戦開設７４周年記念 / 5/15-5/20 ５日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ふじむら杯 / 5/17-5/23 ３日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サントリー杯 / 5/16-5/21 ４日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第９回赤城カントリー倶楽部杯 / 5/19-5/24 初日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４２回日本モーターボート選手会カップ / 5/14-5/19 最終日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/19-5/23 初日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松１ｓｔマンスリーＢＯＡＴＲＡＣＥ杯 / 5/15-5/20 ５日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎとこなめ / 5/19-5/24 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツ杯争奪徳山オールレディース / 5/18-5/23 ２日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日伯友好記念 ブラジル杯 / 5/16-5/19 最終日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-19-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スマホのアプリ「Ｎｏｖｉｌ★ラボ！」杯競走 / 5/16-5/21 ４日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第７０回結核予防事業協賛 秩父宮妃記念杯 / 5/20-5/25 初日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。読売新聞社杯全日本王座決定戦開設７４周年記念 / 5/15-5/20 最終日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ふじむら杯 / 5/17-5/23 ４日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サントリー杯 / 5/16-5/21 ５日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第９回赤城カントリー倶楽部杯 / 5/19-5/24 ２日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/19-5/23 ２日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松１ｓｔマンスリーＢＯＡＴＲＡＣＥ杯 / 5/15-5/20 最終日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎとこなめ / 5/19-5/24 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回日刊ゲンダイ杯 / 5/20-5/25 初日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツちどり杯争奪戦 / 5/20-5/25 初日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツ杯争奪徳山オールレディース / 5/18-5/23 ３日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-20-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スマホのアプリ「Ｎｏｖｉｌ★ラボ！」杯競走 / 5/16-5/21 ５日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第７０回結核予防事業協賛 秩父宮妃記念杯 / 5/20-5/25 ２日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレース下関１ｓｔ 楽天銀行賞 / 5/21-5/24 初日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ふじむら杯 / 5/17-5/23 ５日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サントリー杯 / 5/16-5/21 最終日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第９回赤城カントリー倶楽部杯 / 5/19-5/24 ３日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/19-5/23 ３日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎとこなめ / 5/19-5/24 ３日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回日刊ゲンダイ杯 / 5/20-5/25 ２日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツちどり杯争奪戦 / 5/20-5/25 ２日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツ杯争奪徳山オールレディース / 5/18-5/23 ４日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-21-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スマホのアプリ「Ｎｏｖｉｌ★ラボ！」杯競走 / 5/16-5/21 最終日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第７０回結核予防事業協賛 秩父宮妃記念杯 / 5/20-5/25 ３日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレース下関１ｓｔ 楽天銀行賞 / 5/21-5/24 ２日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ふじむら杯 / 5/17-5/23 ６日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第９回赤城カントリー倶楽部杯 / 5/19-5/24 ４日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/19-5/23 ４日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎとこなめ / 5/19-5/24 ４日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回日刊ゲンダイ杯 / 5/20-5/25 ３日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツちどり杯争奪戦 / 5/20-5/25 ３日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 5/22-5/26 初日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツ杯争奪徳山オールレディース / 5/18-5/23 ５日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-22-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１１戦 スカパー！・ＪＬＣ杯 / 5/22-5/27 初日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第７０回結核予防事業協賛 秩父宮妃記念杯 / 5/20-5/25 ４日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレース下関１ｓｔ 楽天銀行賞 / 5/21-5/24 ３日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ふじむら杯 / 5/17-5/23 最終日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第９回赤城カントリー倶楽部杯 / 5/19-5/24 ５日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三国巧者決定戦 / 5/23-5/28 初日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 5/19-5/23 最終日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。アクアコンシェルジュカップ / 5/23-5/27 初日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎとこなめ / 5/19-5/24 ５日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回日刊ゲンダイ杯 / 5/20-5/25 ４日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツちどり杯争奪戦 / 5/20-5/25 ４日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 5/22-5/26 ２日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツ杯争奪徳山オールレディース / 5/18-5/23 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-23-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１１戦 スカパー！・ＪＬＣ杯 / 5/22-5/27 ２日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第７０回結核予防事業協賛 秩父宮妃記念杯 / 5/20-5/25 ５日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ嘉麻開設１４周年記念 / 5/24-5/28 初日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレース下関１ｓｔ 楽天銀行賞 / 5/21-5/24 最終日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第９回赤城カントリー倶楽部杯 / 5/19-5/24 最終日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三国巧者決定戦 / 5/23-5/28 ２日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。アクアコンシェルジュカップ / 5/23-5/27 ２日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎとこなめ / 5/19-5/24 最終日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回日刊ゲンダイ杯 / 5/20-5/25 ５日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ 第４戦 スマホマクール杯 / 5/24-5/29 初日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツちどり杯争奪戦 / 5/20-5/25 ５日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 5/22-5/26 ３日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-24-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１１戦 スカパー！・ＪＬＣ杯 / 5/22-5/27 ３日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第７０回結核予防事業協賛 秩父宮妃記念杯 / 5/20-5/25 最終日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ嘉麻開設１４周年記念 / 5/24-5/28 ２日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 5/25-5/31 初日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２０回日本トーター賞ＢＴＳ安芸高田開設７周年記念 / 5/25-5/30 初日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。秋川渓谷カップ・第５１回スポーツニッポン杯 / 5/25-5/30 初日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三国巧者決定戦 / 5/23-5/28 ３日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。アクアコンシェルジュカップ / 5/23-5/27 ３日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２１回日刊ゲンダイ杯 / 5/20-5/25 最終日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ 第４戦 スマホマクール杯 / 5/24-5/29 ２日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日刊スポーツちどり杯争奪戦 / 5/20-5/25 最終日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 5/22-5/26 ４日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-25-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１１戦 スカパー！・ＪＬＣ杯 / 5/22-5/27 ４日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ嘉麻開設１４周年記念 / 5/24-5/28 ３日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 5/25-5/31 ２日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１６回琴参バスカップ / 5/26-5/31 初日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２０回日本トーター賞ＢＴＳ安芸高田開設７周年記念 / 5/25-5/30 ２日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。秋川渓谷カップ・第５１回スポーツニッポン杯 / 5/25-5/30 ２日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三国巧者決定戦 / 5/23-5/28 ４日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。アクアコンシェルジュカップ / 5/23-5/27 ４日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ 第４戦 スマホマクール杯 / 5/24-5/29 ３日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 5/22-5/26 最終日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１１戦 スカパー！・ＪＬＣ杯 / 5/22-5/27 ５日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-26-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５３回ボートレースオールスター / 5/26-5/31 初日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ嘉麻開設１４周年記念 / 5/24-5/28 ４日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 5/25-5/31 ３日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１６回琴参バスカップ / 5/26-5/31 ２日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２０回日本トーター賞ＢＴＳ安芸高田開設７周年記念 / 5/25-5/30 ３日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。秋川渓谷カップ・第５１回スポーツニッポン杯 / 5/25-5/30 ３日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三国巧者決定戦 / 5/23-5/28 ５日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。アクアコンシェルジュカップ / 5/23-5/27 最終日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第９回愛知・名古屋アジア・アジアパラ大会協賛競走 / 5/27-6/1 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ 第４戦 スマホマクール杯 / 5/24-5/29 ４日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部記者クラブ杯争奪戦 / 5/27-5/31 初日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ルーキーシリーズ第１１戦 スカパー！・ＪＬＣ杯 / 5/22-5/27 最終日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-27-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５３回ボートレースオールスター / 5/26-5/31 ２日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ嘉麻開設１４周年記念 / 5/24-5/28 最終日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 5/25-5/31 ４日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１６回琴参バスカップ / 5/26-5/31 ３日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２０回日本トーター賞ＢＴＳ安芸高田開設７周年記念 / 5/25-5/30 ４日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第３３回桐生タイムス杯 / 5/28-6/1 初日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。本命バトル祭 / 5/28-5/31 初日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。秋川渓谷カップ・第５１回スポーツニッポン杯 / 5/25-5/30 ４日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。三国巧者決定戦 / 5/23-5/28 最終日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第９回愛知・名古屋アジア・アジアパラ大会協賛競走 / 5/27-6/1 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ 第４戦 スマホマクール杯 / 5/24-5/29 ５日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部記者クラブ杯争奪戦 / 5/27-5/31 ２日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-28-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５３回ボートレースオールスター / 5/26-5/31 ３日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪第４１回オールニッポン選抜戦 / 5/29-6/3 初日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 5/25-5/31 ５日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１６回琴参バスカップ / 5/26-5/31 ４日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２０回日本トーター賞ＢＴＳ安芸高田開設７周年記念 / 5/25-5/30 ５日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第３３回桐生タイムス杯 / 5/28-6/1 ２日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。本命バトル祭 / 5/28-5/31 ２日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。秋川渓谷カップ・第５１回スポーツニッポン杯 / 5/25-5/30 ５日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第９回愛知・名古屋アジア・アジアパラ大会協賛競走 / 5/27-6/1 ３日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ 第４戦 スマホマクール杯 / 5/24-5/29 最終日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。津マスターズリーグ第１戦 / 5/29-6/3 初日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１３回見帰りの滝あじさいカップ / 5/29-6/2 初日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部記者クラブ杯争奪戦 / 5/27-5/31 ３日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５３回ボートレースオールスター / 5/26-5/31 ４日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-29-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１７回鳴門商工会議所会頭杯競走 / 5/29-6/2 初日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪第４１回オールニッポン選抜戦 / 5/29-6/3 ２日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 5/25-5/31 ６日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１６回琴参バスカップ / 5/26-5/31 ５日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２０回日本トーター賞ＢＴＳ安芸高田開設７周年記念 / 5/25-5/30 最終日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第３３回桐生タイムス杯 / 5/28-6/1 ３日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。本命バトル祭 / 5/28-5/31 ３日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。秋川渓谷カップ・第５１回スポーツニッポン杯 / 5/25-5/30 最終日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。守口市制８０周年記念競走 / 5/30-6/3 初日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第９回愛知・名古屋アジア・アジアパラ大会協賛競走 / 5/27-6/1 ４日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディースリップルカップ / 5/30-6/4 初日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。津マスターズリーグ第１戦 / 5/29-6/3 ２日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１３回見帰りの滝あじさいカップ / 5/29-6/2 ２日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部記者クラブ杯争奪戦 / 5/27-5/31 ４日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５３回ボートレースオールスター / 5/26-5/31 ５日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-30-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１７回鳴門商工会議所会頭杯競走 / 5/29-6/2 ２日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪第４１回オールニッポン選抜戦 / 5/29-6/3 ３日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 5/25-5/31 最終日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第１６回琴参バスカップ / 5/26-5/31 最終日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第３３回桐生タイムス杯 / 5/28-6/1 ４日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。本命バトル祭 / 5/28-5/31 最終日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ若松 / 5/31-6/5 初日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。守口市制８０周年記念競走 / 5/30-6/3 ２日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第９回愛知・名古屋アジア・アジアパラ大会協賛競走 / 5/27-6/1 ５日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディースリップルカップ / 5/30-6/4 ２日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。津マスターズリーグ第１戦 / 5/29-6/3 ３日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１３回見帰りの滝あじさいカップ / 5/29-6/2 ３日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部記者クラブ杯争奪戦 / 5/27-5/31 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪 第５８回琴浦賞競走 / 5/31-6/5 初日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第５３回ボートレースオールスター / 5/26-5/31 最終日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-05-31-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１７回鳴門商工会議所会頭杯競走 / 5/29-6/2 ３日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪第４１回オールニッポン選抜戦 / 5/29-6/3 ４日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。海響ドリームナイター９周年記念ＣＯＭＥ ＯＮ！ＦＭ / 6/1-6/5 初日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第３３回桐生タイムス杯 / 5/28-6/1 最終日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ若松 / 5/31-6/5 ２日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。守口市制８０周年記念競走 / 5/30-6/3 ３日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第９回愛知・名古屋アジア・アジアパラ大会協賛競走 / 5/27-6/1 最終日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディースリップルカップ / 5/30-6/4 ３日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ２ / 6/1-6/4 初日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。津マスターズリーグ第１戦 / 5/29-6/3 ４日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１３回見帰りの滝あじさいカップ / 5/29-6/2 ４日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪 第５８回琴浦賞競走 / 5/31-6/5 ２日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-01-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１７回鳴門商工会議所会頭杯競走 / 5/29-6/2 ４日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪第４１回オールニッポン選抜戦 / 5/29-6/3 ５日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。海響ドリームナイター９周年記念ＣＯＭＥ ＯＮ！ＦＭ / 6/1-6/5 ２日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１２戦 / 6/2-6/7 初日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ若松 / 5/31-6/5 ３日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。守口市制８０周年記念競走 / 5/30-6/3 ４日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディースリップルカップ / 5/30-6/4 ４日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ２ / 6/1-6/4 ２日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。津マスターズリーグ第１戦 / 5/29-6/3 ５日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１３回見帰りの滝あじさいカップ / 5/29-6/2 最終日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪 第５８回琴浦賞競走 / 5/31-6/5 ３日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-02-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１７回鳴門商工会議所会頭杯競走 / 5/29-6/2 最終日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪第４１回オールニッポン選抜戦 / 5/29-6/3 最終日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/3-6/8 初日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。海響ドリームナイター９周年記念ＣＯＭＥ ＯＮ！ＦＭ / 6/1-6/5 ３日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。やしの実ＦＭ 「蒲郡ＵＰ！」杯争奪戦 / 6/3-6/7 初日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ江戸川 / 6/3-6/6 初日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１２戦 / 6/2-6/7 ２日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ若松 / 5/31-6/5 ４日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。守口市制８０周年記念競走 / 5/30-6/3 最終日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディースリップルカップ / 5/30-6/4 ５日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ２ / 6/1-6/4 ３日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。津マスターズリーグ第１戦 / 5/29-6/3 最終日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-03-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪 第５８回琴浦賞競走 / 5/31-6/5 ４日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/3-6/8 ２日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。海響ドリームナイター９周年記念ＣＯＭＥ ＯＮ！ＦＭ / 6/1-6/5 ４日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。やしの実ＦＭ 「蒲郡ＵＰ！」杯争奪戦 / 6/3-6/7 ２日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。宮島チャンピオンカップ開設７２周年記念 / 6/4-6/9 初日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ江戸川 / 6/3-6/6 ２日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１２戦 / 6/2-6/7 ３日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ若松 / 5/31-6/5 ５日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ名古屋開設記念・第３４回４ＫソリューションＣ / 6/4-6/8 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディースリップルカップ / 5/30-6/4 最終日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ２ / 6/1-6/4 最終日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-04-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪 第５８回琴浦賞競走 / 5/31-6/5 ５日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/3-6/8 ３日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。海響ドリームナイター９周年記念ＣＯＭＥ ＯＮ！ＦＭ / 6/1-6/5 最終日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。やしの実ＦＭ 「蒲郡ＵＰ！」杯争奪戦 / 6/3-6/7 ３日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。宮島チャンピオンカップ開設７２周年記念 / 6/4-6/9 ２日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢＰ津幡開設１３周年記念 / 6/5-6/10 初日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ江戸川 / 6/3-6/6 ３日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１２戦 / 6/2-6/7 ４日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ若松 / 5/31-6/5 最終日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ名古屋開設記念・第３４回４ＫソリューションＣ / 6/4-6/8 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部発刊１万号記念スポーツ報知杯争奪戦 / 6/5-6/10 初日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-05-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪 第５８回琴浦賞競走 / 5/31-6/5 最終日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/3-6/8 ４日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。やしの実ＦＭ 「蒲郡ＵＰ！」杯争奪戦 / 6/3-6/7 ４日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第５戦 マクール杯 / 6/6-6/11 初日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。宮島チャンピオンカップ開設７２周年記念 / 6/4-6/9 ３日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢＰ津幡開設１３周年記念 / 6/5-6/10 ２日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ江戸川 / 6/3-6/6 最終日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１２戦 / 6/2-6/7 ５日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ名古屋開設記念・第３４回４ＫソリューションＣ / 6/4-6/8 ３日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ３ / 6/6-6/10 初日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部発刊１万号記念スポーツ報知杯争奪戦 / 6/5-6/10 ２日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-06-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。テレしずサマーカップ / 6/6-6/10 初日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/3-6/8 ５日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。やしの実ＦＭ 「蒲郡ＵＰ！」杯争奪戦 / 6/3-6/7 最終日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第５戦 マクール杯 / 6/6-6/11 ２日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。宮島チャンピオンカップ開設７２周年記念 / 6/4-6/9 ４日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢＰ津幡開設１３周年記念 / 6/5-6/10 ３日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１２戦 / 6/2-6/7 最終日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ名古屋開設記念・第３４回４ＫソリューションＣ / 6/4-6/8 ４日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース多摩川バースデイカップ / 6/7-6/11 初日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ３ / 6/6-6/10 ２日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。住信ＳＢＩネット銀行賞 / 6/7-6/12 初日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部発刊１万号記念スポーツ報知杯争奪戦 / 6/5-6/10 ３日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-07-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。テレしずサマーカップ / 6/6-6/10 ２日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/3-6/8 最終日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第５戦 マクール杯 / 6/6-6/11 ３日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。宮島チャンピオンカップ開設７２周年記念 / 6/4-6/9 ５日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢＰ津幡開設１３周年記念 / 6/5-6/10 ４日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＴＳ名古屋開設記念・第３４回４ＫソリューションＣ / 6/4-6/8 最終日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース多摩川バースデイカップ / 6/7-6/11 ２日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ３ / 6/6-6/10 ３日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。住信ＳＢＩネット銀行賞 / 6/7-6/12 ２日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部発刊１万号記念スポーツ報知杯争奪戦 / 6/5-6/10 ４日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。尼崎市市制１１０周年記念 尼崎センプルカップ / 6/8-6/13 初日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-08-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。テレしずサマーカップ / 6/6-6/10 ３日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎびわこ / 6/9-6/14 初日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中京スポーツ杯争奪 蒲郡ボートキング決定戦 / 6/9-6/13 初日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第５戦 マクール杯 / 6/6-6/11 ４日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。宮島チャンピオンカップ開設７２周年記念 / 6/4-6/9 最終日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢＰ津幡開設１３周年記念 / 6/5-6/10 ５日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース多摩川バースデイカップ / 6/7-6/11 ３日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ３ / 6/6-6/10 ４日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。住信ＳＢＩネット銀行賞 / 6/7-6/12 ３日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ唐津 / 6/9-6/14 初日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部発刊１万号記念スポーツ報知杯争奪戦 / 6/5-6/10 ５日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。尼崎市市制１１０周年記念 尼崎センプルカップ / 6/8-6/13 ２日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-09-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。テレしずサマーカップ / 6/6-6/10 ４日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎびわこ / 6/9-6/14 ２日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中京スポーツ杯争奪 蒲郡ボートキング決定戦 / 6/9-6/13 ２日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第５戦 マクール杯 / 6/6-6/11 ５日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢＰ津幡開設１３周年記念 / 6/5-6/10 最終日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース多摩川バースデイカップ / 6/7-6/11 ４日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ミッドナイトボートレースｉｎ大村 ３ / 6/6-6/10 最終日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。住信ＳＢＩネット銀行賞 / 6/7-6/12 ４日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ唐津 / 6/9-6/14 ２日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。西部発刊１万号記念スポーツ報知杯争奪戦 / 6/5-6/10 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。尼崎市市制１１０周年記念 尼崎センプルカップ / 6/8-6/13 ３日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。テレしずサマーカップ / 6/6-6/10 最終日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-10-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第６回鳴門渦潮歌手高瀬豊子杯競走 / 6/10-6/13 初日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎびわこ / 6/9-6/14 ３日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中京スポーツ杯争奪 蒲郡ボートキング決定戦 / 6/9-6/13 ３日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第５戦 マクール杯 / 6/6-6/11 最終日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１３戦 / 6/11-6/16 初日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞第５０回九頭龍賞 / 6/11-6/16 初日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。新選手宿舎完成記念 第４２回日本ＭＢ選手会代表杯 / 6/11-6/16 初日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。若松夜王Ｓ第１戦ミドルダービー日本ＭＢ選手会会長杯 / 6/11-6/15 初日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース多摩川バースデイカップ / 6/7-6/11 最終日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。住信ＳＢＩネット銀行賞 / 6/7-6/12 ５日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ唐津 / 6/9-6/14 ３日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。尼崎市市制１１０周年記念 尼崎センプルカップ / 6/8-6/13 ４日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-11-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第６回鳴門渦潮歌手高瀬豊子杯競走 / 6/10-6/13 ２日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎびわこ / 6/9-6/14 ４日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ下関２ｎｄ 日本モーターボート選手会会長杯 / 6/12-6/17 初日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中京スポーツ杯争奪 蒲郡ボートキング決定戦 / 6/9-6/13 ４日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１３戦 / 6/11-6/16 ２日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞第５０回九頭龍賞 / 6/11-6/16 ２日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。新選手宿舎完成記念 第４２回日本ＭＢ選手会代表杯 / 6/11-6/16 ２日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。若松夜王Ｓ第１戦ミドルダービー日本ＭＢ選手会会長杯 / 6/11-6/15 ２日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。住信ＳＢＩネット銀行賞 / 6/7-6/12 最終日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ唐津 / 6/9-6/14 ４日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。尼崎市市制１１０周年記念 尼崎センプルカップ / 6/8-6/13 ５日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース・ＬＯＶＥ ＦＭ福岡なでしこカップ / 6/12-6/17 初日",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-12-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第６回鳴門渦潮歌手高瀬豊子杯競走 / 6/10-6/13 ３日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎびわこ / 6/9-6/14 ５日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ下関２ｎｄ 日本モーターボート選手会会長杯 / 6/12-6/17 ２日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。中京スポーツ杯争奪 蒲郡ボートキング決定戦 / 6/9-6/13 最終日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１３戦 / 6/11-6/16 ３日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞第５０回九頭龍賞 / 6/11-6/16 ３日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。新選手宿舎完成記念 第４２回日本ＭＢ選手会代表杯 / 6/11-6/16 ３日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。若松夜王Ｓ第１戦ミドルダービー日本ＭＢ選手会会長杯 / 6/11-6/15 ３日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開設７３周年記念競走トコタンキング決定戦 / 6/13-6/18 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ唐津 / 6/9-6/14 ５日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。尼崎市市制１１０周年記念 尼崎センプルカップ / 6/8-6/13 最終日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。体感型動物園 ｉＺｏｏカップ / 6/13-6/16 初日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース・ＬＯＶＥ ＦＭ福岡なでしこカップ / 6/12-6/17 ２日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-13-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第６回鳴門渦潮歌手高瀬豊子杯競走 / 6/10-6/13 最終日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎびわこ / 6/9-6/14 最終日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ下関２ｎｄ 日本モーターボート選手会会長杯 / 6/12-6/17 ３日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第２３回新東通信杯 ＢＴＳ福島開場１５周年記念 / 6/14-6/18 初日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１３戦 / 6/11-6/16 ４日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞第５０回九頭龍賞 / 6/11-6/16 ４日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。新選手宿舎完成記念 第４２回日本ＭＢ選手会代表杯 / 6/11-6/16 ４日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。若松夜王Ｓ第１戦ミドルダービー日本ＭＢ選手会会長杯 / 6/11-6/15 ４日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢ選手会会長杯２０２６ダイスポジャンピーカップ / 6/14-6/17 初日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開設７３周年記念競走トコタンキング決定戦 / 6/13-6/18 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ唐津 / 6/9-6/14 最終日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。体感型動物園 ｉＺｏｏカップ / 6/13-6/16 ２日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-14-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース・ＬＯＶＥ ＦＭ福岡なでしこカップ / 6/12-6/17 ３日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＰａｙＰａｙ銀行賞 / 6/15-6/20 初日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ下関２ｎｄ 日本モーターボート選手会会長杯 / 6/12-6/17 ４日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第２３回新東通信杯 ＢＴＳ福島開場１５周年記念 / 6/14-6/18 ２日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１３戦 / 6/11-6/16 ５日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞第５０回九頭龍賞 / 6/11-6/16 ５日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。新選手宿舎完成記念 第４２回日本ＭＢ選手会代表杯 / 6/11-6/16 ５日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。若松夜王Ｓ第１戦ミドルダービー日本ＭＢ選手会会長杯 / 6/11-6/15 最終日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢ選手会会長杯２０２６ダイスポジャンピーカップ / 6/14-6/17 ２日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開設７３周年記念競走トコタンキング決定戦 / 6/13-6/18 ３日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。体感型動物園 ｉＺｏｏカップ / 6/13-6/16 ３日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-15-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース・ＬＯＶＥ ＦＭ福岡なでしこカップ / 6/12-6/17 ４日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＰａｙＰａｙ銀行賞 / 6/15-6/20 ２日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ下関２ｎｄ 日本モーターボート選手会会長杯 / 6/12-6/17 ５日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第２３回新東通信杯 ＢＴＳ福島開場１５周年記念 / 6/14-6/18 ３日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！・ＪＬＣ杯ルーキーシリーズ第１３戦 / 6/11-6/16 最終日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＲＡＣＥ振興会会長賞第５０回九頭龍賞 / 6/11-6/16 最終日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。新選手宿舎完成記念 第４２回日本ＭＢ選手会代表杯 / 6/11-6/16 最終日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢ選手会会長杯２０２６ダイスポジャンピーカップ / 6/14-6/17 ３日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開設７３周年記念競走トコタンキング決定戦 / 6/13-6/18 ４日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 6/16-6/21 初日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/16-6/21 初日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。体感型動物園 ｉＺｏｏカップ / 6/13-6/16 最終日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-16-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース・ＬＯＶＥ ＦＭ福岡なでしこカップ / 6/12-6/17 ５日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＰａｙＰａｙ銀行賞 / 6/15-6/20 ３日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ下関２ｎｄ 日本モーターボート選手会会長杯 / 6/12-6/17 最終日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トランスワードトロフィー２０２６ / 6/17-6/20 初日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マスターズリーグ第２戦デイリースポーツ杯 / 6/17-6/22 初日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第２３回新東通信杯 ＢＴＳ福島開場１５周年記念 / 6/14-6/18 ４日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＢ選手会会長杯２０２６ダイスポジャンピーカップ / 6/14-6/17 最終日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開設７３周年記念競走トコタンキング決定戦 / 6/13-6/18 ５日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１０回ａｕじぶん銀行賞 / 6/17-6/22 初日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース発祥地記念第３０回モーターボート誕生祭 / 6/17-6/22 初日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 6/16-6/21 ２日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/16-6/21 ２日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回サンスポグリーンカップ争奪戦 / 6/17-6/22 初日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-17-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。オールレディース・ＬＯＶＥ ＦＭ福岡なでしこカップ / 6/12-6/17 最終日",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＰａｙＰａｙ銀行賞 / 6/15-6/20 ４日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トランスワードトロフィー２０２６ / 6/17-6/20 ２日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マスターズリーグ第２戦デイリースポーツ杯 / 6/17-6/22 ２日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。第２３回新東通信杯 ＢＴＳ福島開場１５周年記念 / 6/14-6/18 最終日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第６戦 / 6/18-6/23 初日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松２ｎｄＢＯＡＴＢｏｙカップ / 6/18-6/21 初日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。開設７３周年記念競走トコタンキング決定戦 / 6/13-6/18 最終日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１０回ａｕじぶん銀行賞 / 6/17-6/22 ２日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース発祥地記念第３０回モーターボート誕生祭 / 6/17-6/22 ２日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 6/16-6/21 ３日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/16-6/21 ３日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回サンスポグリーンカップ争奪戦 / 6/17-6/22 ２日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-18-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４０回東京スポーツ賞 / 6/18-6/21 初日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。大阪スポーツ杯争奪 第３１回におの湖賞 / 6/19-6/24 初日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＰａｙＰａｙ銀行賞 / 6/15-6/20 ５日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トランスワードトロフィー２０２６ / 6/17-6/20 ３日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マスターズリーグ第２戦デイリースポーツ杯 / 6/17-6/22 ３日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第６戦 / 6/18-6/23 ２日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松２ｎｄＢＯＡＴＢｏｙカップ / 6/18-6/21 ２日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１０回ａｕじぶん銀行賞 / 6/17-6/22 ３日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース発祥地記念第３０回モーターボート誕生祭 / 6/17-6/22 ３日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 6/16-6/21 ４日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/16-6/21 ４日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回サンスポグリーンカップ争奪戦 / 6/17-6/22 ３日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-19-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４０回東京スポーツ賞 / 6/18-6/21 ２日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。大阪スポーツ杯争奪 第３１回におの湖賞 / 6/19-6/24 ２日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＰａｙＰａｙ銀行賞 / 6/15-6/20 最終日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。トランスワードトロフィー２０２６ / 6/17-6/20 最終日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！ＪＬＣ杯争奪 ルーキーシリーズ第１４戦 / 6/20-6/25 初日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マスターズリーグ第２戦デイリースポーツ杯 / 6/17-6/22 ４日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第６戦 / 6/18-6/23 ３日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松２ｎｄＢＯＡＴＢｏｙカップ / 6/18-6/21 ３日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１０回ａｕじぶん銀行賞 / 6/17-6/22 ４日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース発祥地記念第３０回モーターボート誕生祭 / 6/17-6/22 ４日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 6/16-6/21 ５日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/16-6/21 ５日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回サンスポグリーンカップ争奪戦 / 6/17-6/22 ４日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ浜名湖 / 6/20-6/25 初日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-20-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４０回東京スポーツ賞 / 6/18-6/21 ３日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。大阪スポーツ杯争奪 第３１回におの湖賞 / 6/19-6/24 ３日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。オープン７周年記念モーヴィ下関杯 / 6/21-6/24 初日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！ＪＬＣ杯争奪 ルーキーシリーズ第１４戦 / 6/20-6/25 ２日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マスターズリーグ第２戦デイリースポーツ杯 / 6/17-6/22 ５日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第６戦 / 6/18-6/23 ４日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 6/21-6/24 初日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/21-6/26 初日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松２ｎｄＢＯＡＴＢｏｙカップ / 6/18-6/21 最終日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ウィンボとこなめ開設記念・ＢＯＡＴＢｏｙカップ / 6/21-6/25 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１０回ａｕじぶん銀行賞 / 6/17-6/22 ５日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース発祥地記念第３０回モーターボート誕生祭 / 6/17-6/22 ５日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マンスリーＢＯＡＴＲＡＣＥ杯 / 6/16-6/21 最終日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/16-6/21 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回サンスポグリーンカップ争奪戦 / 6/17-6/22 ５日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ浜名湖 / 6/20-6/25 ２日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-21-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第４０回東京スポーツ賞 / 6/18-6/21 最終日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。大阪スポーツ杯争奪 第３１回におの湖賞 / 6/19-6/24 ４日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。オープン７周年記念モーヴィ下関杯 / 6/21-6/24 ２日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！ＪＬＣ杯争奪 ルーキーシリーズ第１４戦 / 6/20-6/25 ３日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マスターズリーグ第２戦デイリースポーツ杯 / 6/17-6/22 最終日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第６戦 / 6/18-6/23 ５日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 6/21-6/24 ２日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/21-6/26 ２日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ウィンボとこなめ開設記念・ＢＯＡＴＢｏｙカップ / 6/21-6/25 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１０回ａｕじぶん銀行賞 / 6/17-6/22 最終日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ボートレース発祥地記念第３０回モーターボート誕生祭 / 6/17-6/22 最終日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ズバッと！！なべチャンネル杯 / 6/22-6/27 初日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３７回サンスポグリーンカップ争奪戦 / 6/17-6/22 最終日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ浜名湖 / 6/20-6/25 ３日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-22-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。九州スポーツ杯 / 6/22-6/27 初日",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。大阪スポーツ杯争奪 第３１回におの湖賞 / 6/19-6/24 ５日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。オープン７周年記念モーヴィ下関杯 / 6/21-6/24 ３日目",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯争奪 蒲郡ボート大賞 / 6/23-6/28 初日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！ＪＬＣ杯争奪 ルーキーシリーズ第１４戦 / 6/20-6/25 ４日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ヴィーナスシリーズ第６戦 / 6/18-6/23 最終日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 6/21-6/24 ３日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/21-6/26 ３日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ウィンボとこなめ開設記念・ＢＯＡＴＢｏｙカップ / 6/21-6/25 ３日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ズバッと！！なべチャンネル杯 / 6/22-6/27 ２日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ浜名湖 / 6/20-6/25 ４日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。九州スポーツ杯 / 6/22-6/27 ２日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-23-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３６回グランドチャンピオン / 6/23-6/28 初日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。大阪スポーツ杯争奪 第３１回におの湖賞 / 6/19-6/24 最終日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。オープン７周年記念モーヴィ下関杯 / 6/21-6/24 最終日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯争奪 蒲郡ボート大賞 / 6/23-6/28 ２日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！ＪＬＣ杯争奪 ルーキーシリーズ第１４戦 / 6/20-6/25 ５日目",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。９代目江戸川番長決定戦 / 6/24-6/29 初日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本トーター杯 / 6/21-6/24 最終日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/21-6/26 ４日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第７戦大スポ賞第３７回アクアクイーンカップ / 6/24-6/29 初日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ウィンボとこなめ開設記念・ＢＯＡＴＢｏｙカップ / 6/21-6/25 ４日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。下剋上！Ａ１ｖｓＢ級バトル / 6/24-6/29 初日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ズバッと！！なべチャンネル杯 / 6/22-6/27 ３日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ浜名湖 / 6/20-6/25 ５日目",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。九州スポーツ杯 / 6/22-6/27 ３日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２６回日刊ゲンダイボートレースＷＥＢ杯 / 6/24-6/27 初日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-24-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３６回グランドチャンピオン / 6/23-6/28 ２日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。モーヴィ芦屋オープン５周年記念 / 6/25-6/29 初日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯争奪 蒲郡ボート大賞 / 6/23-6/28 ３日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-15",
+      "category": "boat",
+      "venueName": "ボートレース丸亀",
+      "region": "香川県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.marugameboat.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スカパー！ＪＬＣ杯争奪 ルーキーシリーズ第１４戦 / 6/20-6/25 最終日",
+      "accessNote": "ボートレース丸亀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/25-6/30 初日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。９代目江戸川番長決定戦 / 6/24-6/29 ２日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/21-6/26 ５日目",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第７戦大スポ賞第３７回アクアクイーンカップ / 6/24-6/29 ２日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ウィンボとこなめ開設記念・ＢＯＡＴＢｏｙカップ / 6/21-6/25 最終日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。下剋上！Ａ１ｖｓＢ級バトル / 6/24-6/29 ２日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ズバッと！！なべチャンネル杯 / 6/22-6/27 ４日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/25-6/29 初日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ旗争奪 第５８回尼崎選手権競走 / 6/25-6/30 初日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。にっぽん未来プロジェクト競走ｉｎ浜名湖 / 6/20-6/25 最終日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。九州スポーツ杯 / 6/22-6/27 ４日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２６回日刊ゲンダイボートレースＷＥＢ杯 / 6/24-6/27 ２日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-25-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３６回グランドチャンピオン / 6/23-6/28 ３日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。モーヴィ芦屋オープン５周年記念 / 6/25-6/29 ２日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯争奪 蒲郡ボート大賞 / 6/23-6/28 ４日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１４回サッポロビール杯 / 6/26-7/1 初日",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/25-6/30 ２日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。９代目江戸川番長決定戦 / 6/24-6/29 ３日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/21-6/26 最終日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第７戦大スポ賞第３７回アクアクイーンカップ / 6/24-6/29 ３日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツ報知杯 / 6/26-7/2 初日",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。下剋上！Ａ１ｖｓＢ級バトル / 6/24-6/29 ３日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ズバッと！！なべチャンネル杯 / 6/22-6/27 ５日目",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/25-6/29 ２日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ旗争奪 第５８回尼崎選手権競走 / 6/25-6/30 ２日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。九州スポーツ杯 / 6/22-6/27 ５日目",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２６回日刊ゲンダイボートレースＷＥＢ杯 / 6/24-6/27 ３日目",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-26-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３６回グランドチャンピオン / 6/23-6/28 ４日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。モーヴィ芦屋オープン５周年記念 / 6/25-6/29 ３日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯争奪 蒲郡ボート大賞 / 6/23-6/28 ５日目",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１４回サッポロビール杯 / 6/26-7/1 ２日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/25-6/30 ３日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マクール杯 / 6/27-7/1 初日",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。９代目江戸川番長決定戦 / 6/24-6/29 ４日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第７戦大スポ賞第３７回アクアクイーンカップ / 6/24-6/29 ４日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツ報知杯 / 6/26-7/2 ２日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。下剋上！Ａ１ｖｓＢ級バトル / 6/24-6/29 ４日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ズバッと！！なべチャンネル杯 / 6/22-6/27 最終日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/25-6/29 ３日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ旗争奪 第５８回尼崎選手権競走 / 6/25-6/30 ３日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-22",
+      "category": "boat",
+      "venueName": "ボートレース福岡",
+      "region": "福岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.boatrace-fukuoka.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。九州スポーツ杯 / 6/22-6/27 最終日",
+      "accessNote": "ボートレース福岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-04",
+      "category": "boat",
+      "venueName": "ボートレース平和島",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.heiwajima.gr.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第２６回日刊ゲンダイボートレースＷＥＢ杯 / 6/24-6/27 最終日",
+      "accessNote": "ボートレース平和島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-27-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３６回グランドチャンピオン / 6/23-6/28 ５日目",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。モーヴィ芦屋オープン５周年記念 / 6/25-6/29 ４日目",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-07",
+      "category": "boat",
+      "venueName": "ボートレース蒲郡",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://www.gamagori-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツニッポン杯争奪 蒲郡ボート大賞 / 6/23-6/28 最終日",
+      "accessNote": "ボートレース蒲郡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１４回サッポロビール杯 / 6/26-7/1 ３日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/25-6/30 ４日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マクール杯 / 6/27-7/1 ２日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。９代目江戸川番長決定戦 / 6/24-6/29 ５日目",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ディアボート三国リニューアル１１周年記念競走 / 6/28-7/1 初日",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松３ｒｄパイナップルナイターカップ / 6/28-7/3 初日",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第７戦大スポ賞第３７回アクアクイーンカップ / 6/24-6/29 ５日目",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第６２回日刊スポーツ賞 / 6/28-7/2 初日",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツ報知杯 / 6/26-7/2 ３日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。下剋上！Ａ１ｖｓＢ級バトル / 6/24-6/29 ５日目",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/25-6/29 ４日目",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ旗争奪 第５８回尼崎選手権競走 / 6/25-6/30 ４日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-28-14",
+      "category": "boat",
+      "venueName": "ボートレース鳴門",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "http://www.n14.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第３６回グランドチャンピオン / 6/23-6/28 最終日",
+      "accessNote": "ボートレース鳴門の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１４回近江牛カップ / 6/29-7/3 初日",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-21",
+      "category": "boat",
+      "venueName": "ボートレース芦屋",
+      "region": "福岡県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.boatrace-ashiya.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。モーヴィ芦屋オープン５周年記念 / 6/25-6/29 最終日",
+      "accessNote": "ボートレース芦屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１４回サッポロビール杯 / 6/26-7/1 ４日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/25-6/30 ５日目",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マクール杯 / 6/27-7/1 ３日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-03",
+      "category": "boat",
+      "venueName": "ボートレース江戸川",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "http://www.boatrace-edogawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。９代目江戸川番長決定戦 / 6/24-6/29 最終日",
+      "accessNote": "ボートレース江戸川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ディアボート三国リニューアル１１周年記念競走 / 6/28-7/1 ２日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松３ｒｄパイナップルナイターカップ / 6/28-7/3 ２日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-12",
+      "category": "boat",
+      "venueName": "ボートレース住之江",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.boatrace-suminoe.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＶＳ第７戦大スポ賞第３７回アクアクイーンカップ / 6/24-6/29 最終日",
+      "accessNote": "ボートレース住之江の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪・ＢＴＳ高浜開設記念競走 / 6/29-7/4 初日",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第６２回日刊スポーツ賞 / 6/28-7/2 ２日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツ報知杯 / 6/26-7/2 ４日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-09",
+      "category": "boat",
+      "venueName": "ボートレース津",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "http://www.boatrace-tsu.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。下剋上！Ａ１ｖｓＢ級バトル / 6/24-6/29 最終日",
+      "accessNote": "ボートレース津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-18",
+      "category": "boat",
+      "venueName": "ボートレース徳山",
+      "region": "山口県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "http://www.boatrace-tokuyama.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ＢＯＡＴＢｏｙカップ / 6/25-6/29 最終日",
+      "accessNote": "ボートレース徳山の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-29-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ旗争奪 第５８回尼崎選手権競走 / 6/25-6/30 ５日目",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-11",
+      "category": "boat",
+      "venueName": "ボートレースびわこ",
+      "region": "滋賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.boatrace-biwako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１４回近江牛カップ / 6/29-7/3 ２日目",
+      "accessNote": "ボートレースびわこの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-19",
+      "category": "boat",
+      "venueName": "ボートレース下関",
+      "region": "山口県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.boatrace-shimonoseki.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。瞬報社杯 / 6/30-7/4 初日",
+      "accessNote": "ボートレース下関の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-17",
+      "category": "boat",
+      "venueName": "ボートレース宮島",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.boatrace-miyajima.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第１４回サッポロビール杯 / 6/26-7/1 ５日目",
+      "accessNote": "ボートレース宮島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-01",
+      "category": "boat",
+      "venueName": "ボートレース桐生",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.kiryu-kyotei.com/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。サッポロビールカップ / 6/25-6/30 最終日",
+      "accessNote": "ボートレース桐生の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-02",
+      "category": "boat",
+      "venueName": "ボートレース戸田",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "http://www.boatrace-toda.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。マクール杯 / 6/27-7/1 ４日目",
+      "accessNote": "ボートレース戸田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-10",
+      "category": "boat",
+      "venueName": "ボートレース三国",
+      "region": "福井県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.boatrace-mikuni.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。ディアボート三国リニューアル１１周年記念競走 / 6/28-7/1 ３日目",
+      "accessNote": "ボートレース三国の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-16",
+      "category": "boat",
+      "venueName": "ボートレース児島",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.kojimaboat.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。モーターボート大賞 全国地区代表戦 / 6/30-7/5 初日",
+      "accessNote": "ボートレース児島の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-20",
+      "category": "boat",
+      "venueName": "ボートレース若松",
+      "region": "福岡県",
+      "startTime": "17:00",
+      "endTime": "23:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.wmb.jp/",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。ＭＮＢＲ若松３ｒｄパイナップルナイターカップ / 6/28-7/3 ３日目",
+      "accessNote": "ボートレース若松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-08",
+      "category": "boat",
+      "venueName": "ボートレース常滑",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "http://www.boatrace-tokoname.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。デイリースポーツ杯争奪・ＢＴＳ高浜開設記念競走 / 6/29-7/4 ２日目",
+      "accessNote": "ボートレース常滑の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-05",
+      "category": "boat",
+      "venueName": "ボートレース多摩川",
+      "region": "東京都",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "http://www.boatrace-tamagawa.com/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。第６２回日刊スポーツ賞 / 6/28-7/2 ３日目",
+      "accessNote": "ボートレース多摩川の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-24",
+      "category": "boat",
+      "venueName": "ボートレース大村",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "20:50",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "http://omurakyotei.jp/index.php",
+      "night": true,
+      "memo": "BOAT RACE公式データから取り込み。スポーツ報知杯 / 6/26-7/2 ５日目",
+      "accessNote": "ボートレース大村の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-23",
+      "category": "boat",
+      "venueName": "ボートレース唐津",
+      "region": "佐賀県",
+      "startTime": "08:30",
+      "endTime": "14:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "http://www.boatrace-karatsu.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。日本モーターボート選手会会長杯 / 6/30-7/5 初日",
+      "accessNote": "ボートレース唐津の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-13",
+      "category": "boat",
+      "venueName": "ボートレース尼崎",
+      "region": "兵庫県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.boatrace-amagasaki.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。サンケイスポーツ旗争奪 第５８回尼崎選手権競走 / 6/25-6/30 最終日",
+      "accessNote": "ボートレース尼崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "boat-2026-06-30-06",
+      "category": "boat",
+      "venueName": "ボートレース浜名湖",
+      "region": "静岡県",
+      "startTime": "12:00",
+      "endTime": "18:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.boatrace-hamanako.jp/",
+      "night": false,
+      "memo": "BOAT RACE公式データから取り込み。本命戦浜名湖巧者 ＢＯＡＴＢｏｙカップ / 6/30-7/5 初日",
+      "accessNote": "ボートレース浜名湖の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-02-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Keio Hai Spring Cup (G2)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-02-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Keio Hai Spring Cup (G2)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-02-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Keio Hai Spring Cup (G2)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-03-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tenno Sho (Spring) (G1)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-03-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tenno Sho (Spring) (G1)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-03-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tenno Sho (Spring) (G1)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-09-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Epsom Cup (G3)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-09-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Epsom Cup (G3)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-09-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Epsom Cup (G3)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-10-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: NHK Mile Cup (G1)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-10-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: NHK Mile Cup (G1)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-10-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: NHK Mile Cup (G1)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-16-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Kyoto High-Jump (J-G2)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-16-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Kyoto High-Jump (J-G2)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-16-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Kyoto High-Jump (J-G2)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-17-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Victoria Mile (G1)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-17-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Victoria Mile (G1)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-17-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Victoria Mile (G1)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-23-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Heian Stakes (G3)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-23-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Heian Stakes (G3)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-23-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Heian Stakes (G3)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-24-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Yushun Himba (Japanese Oaks) (G1)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-24-nii",
+      "category": "jra",
+      "venueName": "新潟競馬場",
+      "region": "新潟県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Yushun Himba (Japanese Oaks) (G1)",
+      "accessNote": "新潟競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-24-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Yushun Himba (Japanese Oaks) (G1)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-30-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Aoi Stakes (G3)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-30-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Aoi Stakes (G3)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-31-kyo",
+      "category": "jra",
+      "venueName": "京都競馬場",
+      "region": "京都府",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tokyo Yushun (Japanese Derby) (G1) Meguro Kinen (G2)",
+      "accessNote": "京都競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-05-31-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tokyo Yushun (Japanese Derby) (G1) Meguro Kinen (G2)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-06-han",
+      "category": "jra",
+      "venueName": "阪神競馬場",
+      "region": "兵庫県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "阪神競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-06-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-07-han",
+      "category": "jra",
+      "venueName": "阪神競馬場",
+      "region": "兵庫県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Yasuda Kinen (G1)",
+      "accessNote": "阪神競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-07-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Yasuda Kinen (G1)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-13-han",
+      "category": "jra",
+      "venueName": "阪神競馬場",
+      "region": "兵庫県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tokyo Jump Stakes (J-G3)",
+      "accessNote": "阪神競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-13-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tokyo Jump Stakes (J-G3)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-13-hak",
+      "category": "jra",
+      "venueName": "函館競馬場",
+      "region": "北海道",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Tokyo Jump Stakes (J-G3)",
+      "accessNote": "函館競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-14-han",
+      "category": "jra",
+      "venueName": "阪神競馬場",
+      "region": "兵庫県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Takarazuka Kinen (G1)",
+      "accessNote": "阪神競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-14-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Takarazuka Kinen (G1)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-14-hak",
+      "category": "jra",
+      "venueName": "函館競馬場",
+      "region": "北海道",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Takarazuka Kinen (G1)",
+      "accessNote": "函館競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-20-han",
+      "category": "jra",
+      "venueName": "阪神競馬場",
+      "region": "兵庫県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "阪神競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-20-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-20-hak",
+      "category": "jra",
+      "venueName": "函館競馬場",
+      "region": "北海道",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "函館競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-21-han",
+      "category": "jra",
+      "venueName": "阪神競馬場",
+      "region": "兵庫県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Fuchu Himba Stakes (G3)",
+      "accessNote": "阪神競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-21-tok",
+      "category": "jra",
+      "venueName": "東京競馬場",
+      "region": "東京都",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Fuchu Himba Stakes (G3)",
+      "accessNote": "東京競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-21-hak",
+      "category": "jra",
+      "venueName": "函館競馬場",
+      "region": "北海道",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Fuchu Himba Stakes (G3)",
+      "accessNote": "函館競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-27-kok",
+      "category": "jra",
+      "venueName": "小倉競馬場",
+      "region": "福岡県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "小倉競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-27-hak",
+      "category": "jra",
+      "venueName": "函館競馬場",
+      "region": "北海道",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "函館競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-27-fuk",
+      "category": "jra",
+      "venueName": "福島競馬場",
+      "region": "福島県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。開催日程",
+      "accessNote": "福島競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-28-kok",
+      "category": "jra",
+      "venueName": "小倉競馬場",
+      "region": "福岡県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Radio Nikkei Sho (G3)",
+      "accessNote": "小倉競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-28-hak",
+      "category": "jra",
+      "venueName": "函館競馬場",
+      "region": "北海道",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Radio Nikkei Sho (G3)",
+      "accessNote": "函館競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "jra-2026-06-28-fuk",
+      "category": "jra",
+      "venueName": "福島競馬場",
+      "region": "福島県",
+      "startTime": "09:50",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.jra.go.jp/",
+      "night": false,
+      "memo": "JRA公式カレンダーから取り込み。主なレース: Radio Nikkei Sho (G3)",
+      "accessNote": "福島競馬場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-26",
+      "category": "keirin",
+      "venueName": "西武園競輪場",
+      "region": "埼玉県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "西武園競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-01-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-26",
+      "category": "keirin",
+      "venueName": "西武園競輪場",
+      "region": "埼玉県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "西武園競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-02-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-03-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-03-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-03-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-03-26",
+      "category": "keirin",
+      "venueName": "西武園競輪場",
+      "region": "埼玉県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "西武園競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-03-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-03-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-03-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-04-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-04-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-04-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-04-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-04-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-04-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-04-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-05-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-06-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-07-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-07-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-07-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-07-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-07-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-07-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-08-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-09-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-10-13",
+      "category": "keirin",
+      "venueName": "いわき平競輪場",
+      "region": "福島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "いわき平競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-10-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-10-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-10-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-10-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-10-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-10-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-11-13",
+      "category": "keirin",
+      "venueName": "いわき平競輪場",
+      "region": "福島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "いわき平競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-11-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-11-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-11-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-11-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-11-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-11-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-12-13",
+      "category": "keirin",
+      "venueName": "いわき平競輪場",
+      "region": "福島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "いわき平競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-12-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-12-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-12-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-12-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-12-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-12-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-13-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-13-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-13-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-13-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-13-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-13-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-13-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-14-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-14-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-14-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-14-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-14-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-14-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-15-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-16-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-16-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-16-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-16-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-16-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-16-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-17-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-18-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-18-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-18-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-18-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-18-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-18-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-18-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-19-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-20-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-21-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-21-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-21-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-21-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-21-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-21-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-21-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-25",
+      "category": "keirin",
+      "venueName": "大宮競輪場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-22-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-25",
+      "category": "keirin",
+      "venueName": "大宮競輪場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-23-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-25",
+      "category": "keirin",
+      "venueName": "大宮競輪場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-24-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-25-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-26-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-27-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-28-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-29-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-29-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-29-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-29-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-29-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-29-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-29-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-30-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-05-31-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-05-31"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-01-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-01"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-02-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-02"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-45",
+      "category": "keirin",
+      "venueName": "豊橋競輪場",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "豊橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-42",
+      "category": "keirin",
+      "venueName": "名古屋競輪場",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "名古屋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-03-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-03"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-45",
+      "category": "keirin",
+      "venueName": "豊橋競輪場",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "豊橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-04-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-04"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-25",
+      "category": "keirin",
+      "venueName": "大宮競輪場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-45",
+      "category": "keirin",
+      "venueName": "豊橋競輪場",
+      "region": "愛知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "豊橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-05-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-05"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-06-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-06-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-06-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-06-25",
+      "category": "keirin",
+      "venueName": "大宮競輪場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-06-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-06-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-06-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-06"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-07-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-07-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-07-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-07-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-07-25",
+      "category": "keirin",
+      "venueName": "大宮競輪場",
+      "region": "埼玉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-07-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-07-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-07"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-08-13",
+      "category": "keirin",
+      "venueName": "いわき平競輪場",
+      "region": "福島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "いわき平競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-08-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-08-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-08-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-08-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-08-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-08-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-08"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-13",
+      "category": "keirin",
+      "venueName": "いわき平競輪場",
+      "region": "福島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "いわき平競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-09-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-09"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-13",
+      "category": "keirin",
+      "venueName": "いわき平競輪場",
+      "region": "福島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "いわき平競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-10-63",
+      "category": "keirin",
+      "venueName": "防府競輪場",
+      "region": "山口県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-10"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "防府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-22",
+      "category": "keirin",
+      "venueName": "前橋競輪場",
+      "region": "群馬県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "前橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-11-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-11"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-12-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-12-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-12-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-12-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-12-38",
+      "category": "keirin",
+      "venueName": "静岡競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "静岡競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-12-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-12-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-12"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-13-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-13-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-13-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-13-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-13-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-13-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-13-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-13"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-14-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-14"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-53",
+      "category": "keirin",
+      "venueName": "奈良競輪場",
+      "region": "奈良県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "奈良競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-15-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-15"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-16-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-16-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-16-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-16-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-16-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-16-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-16-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-16"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-17-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-17-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-17-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-17-47",
+      "category": "keirin",
+      "venueName": "松阪競輪場",
+      "region": "三重県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "松阪競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-17-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-17-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-17-86",
+      "category": "keirin",
+      "venueName": "別府競輪場",
+      "region": "大分県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-17"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "別府競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-18-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-18-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-18-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-18-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-18-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-18-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-18-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-18"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-19-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-19"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-20-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-20-87",
+      "category": "keirin",
+      "venueName": "熊本競輪場",
+      "region": "熊本県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "熊本競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-20-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-20-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-20-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-20-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-20-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-20"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-21-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-21-56",
+      "category": "keirin",
+      "venueName": "岸和田競輪場",
+      "region": "大阪府",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G1 / 通常開催想定",
+      "accessNote": "岸和田競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-21-75",
+      "category": "keirin",
+      "venueName": "松山競輪場",
+      "region": "愛媛県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "松山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-21-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-21-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-21-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-21"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-22-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-22-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-22-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-22-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-22-11",
+      "category": "keirin",
+      "venueName": "函館競輪場",
+      "region": "北海道",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "函館競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-22-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-22-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-22"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-24",
+      "category": "keirin",
+      "venueName": "宇都宮競輪場",
+      "region": "栃木県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "宇都宮競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-23-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-23"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-24-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-24-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-24-83",
+      "category": "keirin",
+      "venueName": "久留米競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "久留米競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-24-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-24-36",
+      "category": "keirin",
+      "venueName": "小田原競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小田原競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-24-21",
+      "category": "keirin",
+      "venueName": "弥彦競輪場",
+      "region": "新潟県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "弥彦競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-24-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-24"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-27",
+      "category": "keirin",
+      "venueName": "京王閣競輪場",
+      "region": "東京都",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "京王閣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-25-55",
+      "category": "keirin",
+      "venueName": "和歌山競輪場",
+      "region": "和歌山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-25"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "和歌山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-26-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-26-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-26-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-26-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-26-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-26-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-26-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-26"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-73",
+      "category": "keirin",
+      "venueName": "小松島競輪場",
+      "region": "徳島県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "小松島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-31",
+      "category": "keirin",
+      "venueName": "松戸競輪場",
+      "region": "千葉県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "松戸競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-12",
+      "category": "keirin",
+      "venueName": "青森競輪場",
+      "region": "青森県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "青森競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-44",
+      "category": "keirin",
+      "venueName": "大垣競輪場",
+      "region": "岐阜県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "大垣競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-27-46",
+      "category": "keirin",
+      "venueName": "富山競輪場",
+      "region": "富山県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-27"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "富山競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-28-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-28-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-28-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-28-62",
+      "category": "keirin",
+      "venueName": "広島競輪場",
+      "region": "広島県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "広島競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-28-85",
+      "category": "keirin",
+      "venueName": "佐世保競輪場",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "佐世保競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-28-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-28-81",
+      "category": "keirin",
+      "venueName": "小倉競輪場",
+      "region": "福岡県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-28"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "小倉競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-29-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-29-43",
+      "category": "keirin",
+      "venueName": "岐阜競輪場",
+      "region": "岐阜県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "岐阜競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-29-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-29-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-29-85",
+      "category": "keirin",
+      "venueName": "佐世保競輪場",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "佐世保競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-29-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-29-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-29"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-37",
+      "category": "keirin",
+      "venueName": "伊東競輪場",
+      "region": "静岡県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "伊東競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-61",
+      "category": "keirin",
+      "venueName": "玉野競輪場",
+      "region": "岡山県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "玉野競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-74",
+      "category": "keirin",
+      "venueName": "高知競輪場",
+      "region": "高知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "高知競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-85",
+      "category": "keirin",
+      "venueName": "佐世保競輪場",
+      "region": "長崎県",
+      "startTime": "15:00",
+      "endTime": "21:00",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": true,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / ナイター想定",
+      "accessNote": "佐世保競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-23",
+      "category": "keirin",
+      "venueName": "取手競輪場",
+      "region": "茨城県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。G3 / 通常開催想定",
+      "accessNote": "取手競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-84",
+      "category": "keirin",
+      "venueName": "武雄競輪場",
+      "region": "佐賀県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "武雄競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-35",
+      "category": "keirin",
+      "venueName": "平塚競輪場",
+      "region": "神奈川県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F1 / 通常開催想定",
+      "accessNote": "平塚競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "keirin-2026-06-30-45",
+      "category": "keirin",
+      "venueName": "豊橋競輪場",
+      "region": "愛知県",
+      "startTime": "10:30",
+      "endTime": "16:30",
+      "days": [],
+      "dates": [
+        "2026-06-30"
+      ],
+      "officialUrl": "https://www.keirin.jp/",
+      "night": false,
+      "memo": "KEIRIN.JP公式開催日程から取り込み。F2 / 通常開催想定",
+      "accessNote": "豊橋競輪場の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-01-笠松",
+      "category": "local-keiba",
+      "venueName": "笠松競馬場",
+      "region": "岐阜県",
+      "startTime": "11:10",
+      "endTime": "17:40",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.kasamatsu-keiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: 笠松町コラボ同時開催中記念３歳６",
+      "accessNote": "笠松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-01-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:20",
+      "endTime": "19:20",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ１七",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-01-大井",
+      "category": "local-keiba",
+      "venueName": "大井競馬場",
+      "region": "東京都",
+      "startTime": "14:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-01"
+      ],
+      "officialUrl": "https://www.tokyocitykeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳四 五",
+      "accessNote": "大井の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-02-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "15:35",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３－６",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-02-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:20",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: パドックリニューアル記念３歳－４組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-02-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:40",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-02"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ひろちゃんばんえい参上記念Ｃ２－１６",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-03-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:45",
+      "endTime": "19:35",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２七",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-03-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "14:55",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２－８",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-03-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:50",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: よーらいさん来場記念３歳－５組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-03-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:30",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-03"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: みずちゃんハピバ杯Ｃ２－１０",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-04-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:15",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-04-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:00",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳－７組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-04-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "12:15",
+      "endTime": "18:50",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ファーストステップ　２歳　新馬戦",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-04-船橋",
+      "category": "local-keiba",
+      "venueName": "船橋競馬場",
+      "region": "千葉県",
+      "startTime": "14:45",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.f-keiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳二",
+      "accessNote": "船橋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-04-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:20",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 飛花琳＆崇獅　初誕生記念Ｃ２－１５",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-04-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "12:25",
+      "endTime": "19:20",
+      "days": [],
+      "dates": [
+        "2026-05-04"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: グランプリＤＡＹ　オープニング３歳１２",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-05-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:20",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-05-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:30",
+      "endTime": "19:35",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２十四",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-05-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:30",
+      "endTime": "18:40",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-05-船橋",
+      "category": "local-keiba",
+      "venueName": "船橋競馬場",
+      "region": "千葉県",
+      "startTime": "14:25",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.f-keiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ＨＥＡＲＴ　ＢＥＡＴ　ＤＡＹＳ賞３歳四",
+      "accessNote": "船橋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-05-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "11:55",
+      "endTime": "19:05",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: デネボラ疾風戦Ｂ４",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-05-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "14:20",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-05"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳条件　未勝利",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-06-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:25",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３二４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-06-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:30",
+      "endTime": "18:40",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２三組",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-06-船橋",
+      "category": "local-keiba",
+      "venueName": "船橋競馬場",
+      "region": "千葉県",
+      "startTime": "14:25",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.f-keiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３二",
+      "accessNote": "船橋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-06-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "12:25",
+      "endTime": "19:35",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ１５組",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-06-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "14:20",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-06"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳以上　Ｃ４－３",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-07-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:15",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３二４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-07-船橋",
+      "category": "local-keiba",
+      "venueName": "船橋競馬場",
+      "region": "千葉県",
+      "startTime": "14:45",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.f-keiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳七",
+      "accessNote": "船橋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-07-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "12:20",
+      "endTime": "19:20",
+      "days": [],
+      "dates": [
+        "2026-05-07"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳６組",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-08-船橋",
+      "category": "local-keiba",
+      "venueName": "船橋競馬場",
+      "region": "千葉県",
+      "startTime": "14:45",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.f-keiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳九未受賞",
+      "accessNote": "船橋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-08-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "12:20",
+      "endTime": "18:55",
+      "days": [],
+      "dates": [
+        "2026-05-08"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: アジア・アジアパラ応援２６Ｃ５",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-09-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "16:05",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 桂浜水族館９５周年特別３歳－３",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-09-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:20",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳－８組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-09-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:40",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-09"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ポン様ご結婚おめでとう記念Ｃ１－５",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-10-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:35",
+      "endTime": "19:20",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ１六",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-10-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "15:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３－１４",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-10-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:50",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳－１０組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-10-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "12:10",
+      "endTime": "18:50",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-10-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:35",
+      "endTime": "21:20",
+      "days": [],
+      "dates": [
+        "2026-05-10"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 良樹４９才絶好調！誕生日杯Ｃ１－４",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-11-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:45",
+      "endTime": "18:50",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-11-川崎",
+      "category": "local-keiba",
+      "venueName": "川崎競馬場",
+      "region": "神奈川県",
+      "startTime": "15:00",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://www.kawasaki-keiba.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳６",
+      "accessNote": "川崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-11-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:35",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-11"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 第１０回弁護士大平雄介記念Ｃ１－７",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-12-笠松",
+      "category": "local-keiba",
+      "venueName": "笠松競馬場",
+      "region": "岐阜県",
+      "startTime": "11:45",
+      "endTime": "17:25",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.kasamatsu-keiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ１９組",
+      "accessNote": "笠松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-12-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:30",
+      "endTime": "19:35",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳Ｂ６",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-12-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:40",
+      "endTime": "18:50",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２三組",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-12-川崎",
+      "category": "local-keiba",
+      "venueName": "川崎競馬場",
+      "region": "神奈川県",
+      "startTime": "15:00",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-12"
+      ],
+      "officialUrl": "https://www.kawasaki-keiba.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳７",
+      "accessNote": "川崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-13-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:15",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-13-笠松",
+      "category": "local-keiba",
+      "venueName": "笠松競馬場",
+      "region": "岐阜県",
+      "startTime": "11:55",
+      "endTime": "17:30",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.kasamatsu-keiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳６組",
+      "accessNote": "笠松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-13-川崎",
+      "category": "local-keiba",
+      "venueName": "川崎競馬場",
+      "region": "神奈川県",
+      "startTime": "14:45",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.kawasaki-keiba.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三 四",
+      "accessNote": "川崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-13-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "14:20",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-13"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ２歳　未勝利",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-14-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:25",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-14-笠松",
+      "category": "local-keiba",
+      "venueName": "笠松競馬場",
+      "region": "岐阜県",
+      "startTime": "10:55",
+      "endTime": "17:00",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.kasamatsu-keiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ１２組",
+      "accessNote": "笠松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-14-川崎",
+      "category": "local-keiba",
+      "venueName": "川崎競馬場",
+      "region": "神奈川県",
+      "startTime": "15:00",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.kawasaki-keiba.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳８",
+      "accessNote": "川崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-14-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "14:20",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-14"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳以上　Ｃ４－３",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-15-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "14:20",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 阪神アーバンナイター開幕記念３歳Ｃ２",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-15-笠松",
+      "category": "local-keiba",
+      "venueName": "笠松競馬場",
+      "region": "岐阜県",
+      "startTime": "11:20",
+      "endTime": "17:50",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.kasamatsu-keiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳未勝利３歳８",
+      "accessNote": "笠松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-15-川崎",
+      "category": "local-keiba",
+      "venueName": "川崎競馬場",
+      "region": "神奈川県",
+      "startTime": "15:00",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-15"
+      ],
+      "officialUrl": "https://www.kawasaki-keiba.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳９",
+      "accessNote": "川崎の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-16-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "15:35",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３－６",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-16-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:55",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: パッカルくんのおとしもの賞３歳－３組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-16-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:30",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-16"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: １億５千突破！　表屋記念杯Ｃ２－１３",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-17-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:40",
+      "endTime": "19:30",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 蜜丸さくもＹｏｕＴｕｂｅ配信１周年記念杯Ｃ２六",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-17-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "14:55",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２－８",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-17-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:50",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳－４組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-17-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "12:15",
+      "endTime": "18:40",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ファーストステップ　２歳　新馬戦",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-17-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:30",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-17"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 実穂さんいつもありがとう杯Ｃ２－１６",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-18-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:25",
+      "endTime": "21:20",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳－７組",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-18-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:40",
+      "endTime": "18:40",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-18-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:25",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: さかだ裕子☆ばん馬大好き３Ｃ２－１４",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-18-大井",
+      "category": "local-keiba",
+      "venueName": "大井競馬場",
+      "region": "東京都",
+      "startTime": "14:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-18"
+      ],
+      "officialUrl": "https://www.tokyocitykeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳１１ １２",
+      "accessNote": "大井の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-19-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:20",
+      "endTime": "19:25",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ダーチー＆タナシー男の友情記念Ｃ２十四特別編成",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-19-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:30",
+      "endTime": "18:35",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ２歳",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-19-大井",
+      "category": "local-keiba",
+      "venueName": "大井競馬場",
+      "region": "東京都",
+      "startTime": "14:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.tokyocitykeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３四 五 六",
+      "accessNote": "大井の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-19-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "14:00",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-19"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳１２組",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-20-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:05",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-20-大井",
+      "category": "local-keiba",
+      "venueName": "大井競馬場",
+      "region": "東京都",
+      "startTime": "14:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.tokyocitykeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３一 二 三",
+      "accessNote": "大井の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-20-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "12:25",
+      "endTime": "19:10",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ１９組",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-20-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "14:15",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-20"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳条件　未勝利",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-21-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:05",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-21-大井",
+      "category": "local-keiba",
+      "venueName": "大井競馬場",
+      "region": "東京都",
+      "startTime": "14:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.tokyocitykeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳六 七 八",
+      "accessNote": "大井の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-21-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "12:25",
+      "endTime": "19:05",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ１４組",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-21-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "14:15",
+      "endTime": "21:10",
+      "days": [],
+      "dates": [
+        "2026-05-21"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳条件　未勝利",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-22-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "14:20",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３二４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-22-大井",
+      "category": "local-keiba",
+      "venueName": "大井競馬場",
+      "region": "東京都",
+      "startTime": "14:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.tokyocitykeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳四 五",
+      "accessNote": "大井の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-22-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "12:20",
+      "endTime": "19:10",
+      "days": [],
+      "dates": [
+        "2026-05-22"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳９組",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-23-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "15:35",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳－３",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-23-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "15:55",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 九州産スーパーホープフルデビュー　２歳新馬",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-23-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:40",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-23"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 第６４回　定期大会記念Ｃ１－７",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-24-高知",
+      "category": "local-keiba",
+      "venueName": "高知競馬場",
+      "region": "高知県",
+      "startTime": "15:30",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳－６",
+      "accessNote": "高知の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-24-佐賀",
+      "category": "local-keiba",
+      "venueName": "佐賀競馬場",
+      "region": "佐賀県",
+      "startTime": "14:40",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.sagakeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: スーパーホープフルデビュー　２歳新馬",
+      "accessNote": "佐賀の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-24-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:50",
+      "endTime": "18:40",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-24-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:35",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-24"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 氣志團　来場記念Ｃ２－１３",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-25-浦和",
+      "category": "local-keiba",
+      "venueName": "浦和競馬場",
+      "region": "埼玉県",
+      "startTime": "12:20",
+      "endTime": "18:55",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.urawa-keiba.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３七",
+      "accessNote": "浦和の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-25-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:15",
+      "endTime": "19:25",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 秀明くん生まれてきてくれてありがとう記念Ｃ１六",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-25-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:30",
+      "endTime": "18:35",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-25-帯広ば",
+      "category": "local-keiba",
+      "venueName": "帯広ば競馬場",
+      "region": "北海道",
+      "startTime": "14:25",
+      "endTime": "21:15",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://banei-keiba.or.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: もなせくんの好きにして賞Ｃ２－１２",
+      "accessNote": "帯広ばの公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-25-名古屋",
+      "category": "local-keiba",
+      "venueName": "名古屋競馬場",
+      "region": "愛知県",
+      "startTime": "14:35",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-25"
+      ],
+      "officialUrl": "https://www.nagoyakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: アジア・アジアパラ応援２７ ３歳６",
+      "accessNote": "名古屋の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-26-浦和",
+      "category": "local-keiba",
+      "venueName": "浦和競馬場",
+      "region": "埼玉県",
+      "startTime": "12:20",
+      "endTime": "18:55",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.urawa-keiba.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳四",
+      "accessNote": "浦和の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-26-金沢",
+      "category": "local-keiba",
+      "venueName": "金沢競馬場",
+      "region": "石川県",
+      "startTime": "12:15",
+      "endTime": "19:25",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.kanazawakeiba.com/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳Ｂ６",
+      "accessNote": "金沢の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-26-盛岡",
+      "category": "local-keiba",
+      "venueName": "盛岡競馬場",
+      "region": "岩手県",
+      "startTime": "11:30",
+      "endTime": "18:35",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.iwatekeiba.or.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ２三組",
+      "accessNote": "盛岡の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-26-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "15:10",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-26"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ２歳　未勝利",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-27-浦和",
+      "category": "local-keiba",
+      "venueName": "浦和競馬場",
+      "region": "埼玉県",
+      "startTime": "12:20",
+      "endTime": "18:55",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.urawa-keiba.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳五",
+      "accessNote": "浦和の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-27-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:25",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-27-笠松",
+      "category": "local-keiba",
+      "venueName": "笠松競馬場",
+      "region": "岐阜県",
+      "startTime": "10:55",
+      "endTime": "17:40",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.kasamatsu-keiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ級未勝利Ｃ１４",
+      "accessNote": "笠松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-27-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "14:35",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-27"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳条件　未勝利",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-28-浦和",
+      "category": "local-keiba",
+      "venueName": "浦和競馬場",
+      "region": "埼玉県",
+      "startTime": "12:20",
+      "endTime": "18:55",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.urawa-keiba.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳七",
+      "accessNote": "浦和の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-28-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "10:40",
+      "endTime": "17:25",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３二４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-28-笠松",
+      "category": "local-keiba",
+      "venueName": "笠松競馬場",
+      "region": "岐阜県",
+      "startTime": "10:50",
+      "endTime": "17:40",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.kasamatsu-keiba.com/",
+      "night": false,
+      "memo": "地方競馬公式データから取り込み。代表レース: ３歳５組",
+      "accessNote": "笠松の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-28-門別",
+      "category": "local-keiba",
+      "venueName": "門別競馬場",
+      "region": "北海道",
+      "startTime": "20:50",
+      "endTime": "21:25",
+      "days": [],
+      "dates": [
+        "2026-05-28"
+      ],
+      "officialUrl": "https://www.hokkaidokeiba.net/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: 第１２回 ヒダカソウカップ（ソットサス賞）一般牝馬オープン",
+      "accessNote": "門別の公式発表もあわせて確認してください。"
+    },
+    {
+      "id": "local-keiba-2026-05-29-園田",
+      "category": "local-keiba",
+      "venueName": "園田競馬場",
+      "region": "兵庫県",
+      "startTime": "14:30",
+      "endTime": "21:05",
+      "days": [],
+      "dates": [
+        "2026-05-29"
+      ],
+      "officialUrl": "https://www.sonoda-himeji.jp/",
+      "night": true,
+      "memo": "地方競馬公式データから取り込み。代表レース: Ｃ３三４歳以上",
+      "accessNote": "園田の公式発表もあわせて確認してください。"
+    }
+  ]
+};
+})();
