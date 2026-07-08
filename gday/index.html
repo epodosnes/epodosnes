@@ -64,8 +64,8 @@
         <button class="secondary-button" type="button" id="clearFilters">&#26465;&#20214;&#12463;&#12522;&#12450;</button>
       </section>
 
-      <p class="source-note" id="dataIntroNote">&#29694;&#22312;&#12399;&#12469;&#12531;&#12503;&#12523;&#12487;&#12540;&#12479;&#34920;&#31034;&#12391;&#12377;&#12290;&#20844;&#24335;&#12487;&#12540;&#12479;&#36899;&#25658;&#24460;&#12418;&#21516;&#12376;&#30011;&#38754;&#27083;&#25104;&#12391;&#21033;&#29992;&#12391;&#12365;&#12414;&#12377;&#12290;</p>
-      <p class="source-note" id="dataSourceNote">Demo build v5 / external data ready</p>
+      <p class="source-note" id="dataIntroNote">&#38283;&#20652;&#12487;&#12540;&#12479;&#12434;&#35501;&#12415;&#36796;&#12435;&#12391;&#12356;&#12414;&#12377;&#12290;</p>
+      <p class="source-note" id="dataSourceNote">&#38283;&#20652;&#12487;&#12540;&#12479;&#30906;&#35469;&#20013;</p>
       <p class="source-note" id="dataCoverageNote"></p>
       <p class="source-note stale-note" id="dataStaleNote" hidden></p>
       <p class="source-note stale-note" id="dataCoverageWarning" hidden></p>
@@ -203,7 +203,7 @@
         boat: "\u30dc\u30fc\u30c8\u30ec\u30fc\u30b9",
         auto: "\u30aa\u30fc\u30c8\u30ec\u30fc\u30b9",
         keirin: "\u7af6\u8f2a",
-        sample: "\u30b5\u30f3\u30d7\u30eb\u958b\u50ac",
+        sample: "\u958b\u50ac\u4e88\u5b9a",
         night: "\u30ca\u30a4\u30bf\u30fc\u958b\u50ac",
         scheduled: "\u958b\u50ac\u4e88\u5b9a",
         live: "\u958b\u50ac\u4e2d",
@@ -218,10 +218,10 @@
         noUpcoming: "\u73fe\u5728\u306e\u6761\u4ef6\u3067\u306f30\u65e5\u4ee5\u5185\u306e\u958b\u50ac\u304c\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002",
         today: "\u4eca\u65e5",
         nightLabel: "\u30ca\u30a4\u30bf\u30fc",
-        dataFallback: "\u30d5\u30a9\u30fc\u30eb\u30d0\u30c3\u30af\u30c7\u30fc\u30bf",
-        dataLoaded: "\u5916\u90e8\u30c7\u30fc\u30bf",
-        introFallback: "\u73fe\u5728\u306f\u30d5\u30a9\u30fc\u30eb\u30d0\u30c3\u30af\u30c7\u30fc\u30bf\u8868\u793a\u3067\u3059\u3002\u30c7\u30fc\u30bf\u66f4\u65b0\u5f8c\u306b\u5916\u90e8\u30c7\u30fc\u30bf\u304c\u512a\u5148\u3055\u308c\u307e\u3059\u3002",
-        introExternal: "\u53d6\u308a\u8fbc\u307f\u6e08\u307f\u30c7\u30fc\u30bf\u3092\u8868\u793a\u3057\u3066\u3044\u307e\u3059\u3002\u672a\u53d6\u5f97\u306e\u6708\u3084\u30ab\u30c6\u30b4\u30ea\u306f\u6ce8\u610f\u8868\u793a\u3057\u307e\u3059\u3002",
+        dataFallback: "\u4e88\u5099\u30c7\u30fc\u30bf",
+        dataLoaded: "\u516c\u5f0f\u53d6\u308a\u8fbc\u307f\u30c7\u30fc\u30bf",
+        introFallback: "\u4e88\u5099\u30c7\u30fc\u30bf\u3092\u8868\u793a\u3057\u3066\u3044\u307e\u3059\u3002\u66f4\u65b0\u30b3\u30de\u30f3\u30c9\u5b9f\u884c\u5f8c\u306f\u53d6\u308a\u8fbc\u307f\u6e08\u307f\u30c7\u30fc\u30bf\u304c\u512a\u5148\u3055\u308c\u307e\u3059\u3002",
+        introExternal: "\u53d6\u308a\u8fbc\u307f\u6e08\u307f\u306e\u958b\u50ac\u30c7\u30fc\u30bf\u3092\u8868\u793a\u3057\u3066\u3044\u307e\u3059\u3002\u672a\u53d6\u5f97\u306e\u6708\u3084\u30ab\u30c6\u30b4\u30ea\u306f\u6ce8\u610f\u8868\u793a\u3057\u307e\u3059\u3002",
         accepted: "\u63a1\u7528",
         rejected: "\u9664\u5916",
         updated: "\u66f4\u65b0",
@@ -470,10 +470,8 @@
         const dataAgeDays = getDataAgeDays(dataDiagnostics.generatedAt);
         els.dataIntroNote.textContent = dataDiagnostics.source === text.dataFallback ? text.introFallback : text.introExternal;
         els.dataSourceNote.textContent =
-          "Demo build v5 / " +
+          "\u958b\u50ac\u30c7\u30fc\u30bf: " +
           dataDiagnostics.source +
-          " / " +
-          dataDiagnostics.build +
           " / " +
           text.accepted +
           ": " +
