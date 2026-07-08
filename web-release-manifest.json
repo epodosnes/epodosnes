@@ -1,0 +1,49 @@
+{
+  "releaseId": "race-day-board-web-20260707-154958",
+  "createdAt": "2026-07-07T06:49:58.323Z",
+  "mode": "web-static",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 49263
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 12561
+    },
+    {
+      "path": "src/sample-data.js",
+      "bytes": 2074698
+    },
+    {
+      "path": "data/events.json",
+      "bytes": 2074645
+    },
+    {
+      "path": "docs/coverage-report.md",
+      "bytes": 601
+    },
+    {
+      "path": "docs/day-report.md",
+      "bytes": 4806
+    },
+    {
+      "path": "docs/dashboard.md",
+      "bytes": 1794
+    },
+    {
+      "path": "docs/release.md",
+      "bytes": 2307
+    }
+  ],
+  "excluded": [
+    "admin.html",
+    "scripts/admin-server.js",
+    "race-day.cmd",
+    "scripts",
+    "backups",
+    "data/incoming",
+    "data/sources",
+    "dist"
+  ]
+}
