@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>公営競技 開催チェック</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>公営競技 開催チェック</h1>
+    <div class="date-nav">
+      <button id="prev-day" type="button" aria-label="前の日">&#9664;</button>
+      <input type="date" id="date-picker">
+      <button id="next-day" type="button" aria-label="次の日">&#9654;</button>
+      <button id="today-btn" type="button">今日</button>
+    </div>
+    <p id="selected-date-label"></p>
+  </header>
+
+  <main>
+    <section class="category" data-category="jra">
+      <h2>中央競馬</h2>
+      <ul class="venue-list"></ul>
+    </section>
+
+    <section class="category" data-category="nar">
+      <h2>地方競馬</h2>
+      <ul class="venue-list"></ul>
+    </section>
+
+    <section class="category" data-category="boat">
+      <h2>ボートレース</h2>
+      <ul class="venue-list"></ul>
+    </section>
+
+    <section class="category" data-category="keirin">
+      <h2>競輪</h2>
+      <ul class="venue-list"></ul>
+    </section>
+
+    <section class="category" data-category="auto">
+      <h2>オートレース</h2>
+      <ul class="venue-list"></ul>
+    </section>
+  </main>
+
+  <footer>
+    <p id="updated-at"></p>
+    <p class="note">各主催団体の公式サイトの公開情報をもとに手動更新しています。最新・正確な情報は必ず公式サイトでご確認ください。</p>
+  </footer>
+
+  <script src="data/data.js"></script>
+  <script src="assets/main.js"></script>
+</body>
+</html>
